@@ -1,31 +1,130 @@
 {% assign skills = site.data.data.skills %}
 {% if skills %}
 <section class="skills-section section">
+  <div class="education-container container-block">
 
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ skills.title }}
-  </h2>
+    <h2 class="container-block-title">
+      {{ skills.title }}
+    </h2>
 
-  <div class="skillset">
+    <div class="skillset">
+      {% if skills.programming %}
+      <h5>编程语言</h5>
+      {% for skill in skills.programming %}
+      <div class="item">
+        <p class="level-title">{{ skill.name }}</p>
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
 
-    {% for skill in skills.toolset %}
-    <div class="item">
+      {% if skills.database %}
+      <h5>数据库及数据仓库</h5>
+      {% for skill in skills.database %}
+      <div class="item">
+        <p class="level-title">{{ skill.name }}</p>
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
 
-      <h3 class="level-title">{{ skill.name }}</h3>
+      {% if skills.dataVisualization %}
+      <h5>数据可视化工具</h5>
+      {% for skill in skills.dataVisualization %}
+      <div class="item">
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
+        <p class="level-title">{{ skill.name }}</p>
 
-    </div><!--//item-->
-    {% endfor %}
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
 
+      {% if skills.versionControl %}
+      <h5>项目源代码管理</h5>
+      {% for skill in skills.versionControl %}
+      <div class="item">
+
+        <p class="level-title">{{ skill.name }}</p>
+
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
+
+      {% if skills.platform %}
+      <h5>系统</h5>
+      {% for skill in skills.platform %}
+      <div class="item">
+
+        <p class="level-title">{{ skill.name }}</p>
+
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
+
+      {% if skills.cloudComputing %}
+      <h5>云计算</h5>
+      {% for skill in skills.cloudComputing %}
+      <div class="item">
+
+        <p class="level-title">{{ skill.name }}</p>
+
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
+
+      {% if skills.containerTechnology %}
+      <h5>虚拟环境搭建</h5>
+      {% for skill in skills.containerTechnology %}
+      <div class="item">
+
+        <p class="level-title">{{ skill.name }}</p>
+
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
+
+      {% if skills.framework %}
+      <h5>框架</h5>
+      {% for skill in skills.framework %}
+      <div class="item">
+
+        <p class="level-title">{{ skill.name }}</p>
+
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
+
+      {% if skills.testTools %}
+      <h5>测试工具</h5>
+      {% for skill in skills.testTools %}
+      <div class="item">
+
+        <p class="level-title">{{ skill.name }}</p>
+
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
+
+      {% if skills.UIDesign %}
+      <h5>UI/UX 设计</h5>
+      {% for skill in skills.UIDesign %}
+      <div class="item">
+
+        <p class="level-title">{{ skill.name }}</p>
+
+      </div>
+      <!--//item-->
+      {% endfor %}
+      {% endif %}
+    </div>
   </div>
-
-</section><!--//skills-section-->
+</section>
+<!--//skills-section-->
 {% endif %}

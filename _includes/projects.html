@@ -1,38 +1,46 @@
 {% assign projects = site.data.data.projects %}
 {% if projects %}
-<section class="section projects-section">
-
   <h2 class="section-title">
+    <a class="switch-lan" href="{{ projects.changelanguageurl}}">    
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-language fa-stack-1x fa-inverse"></i>
+      </span>
+      {{ projects.changelanguage}}
+    </a>
+    </br>
+  </h2>
+  <h2 class="section-title" >
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-certificate fa-stack-1x fa-inverse"></i>
     </span>
     {{ projects.title }}
   </h2>
 
   {% if projects.intro %}
   <div class="intro">
-      <p>{{ projects.intro }}</p>
+    {{ projects.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in projects.assignments %}
-    <div class="item">
-
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
-
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
+  {% for project in projects.project %}
+</br>
+  <div class="item">
+    {% if project.link %}
+      <li><a href="{{ project.link }}" target="_blank">{{ project.title }}</a></li>
+    {% else %}
+      <li>{{ project.title }}</li>
+    {% endif %}
+    <div class="publication-authors">{{ project.role }}</div>
+    <div class="publication-conference">{{ project.description }}</div>
+    <div class="description">{{ project.KeyAchievements | markdownify }}</div>
+  </div><!--//item-->
   {% endfor %}
-
+  <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-home fa-stack-1x fa-inverse"></i>
+  </span>
+  <a href="https://{{ site.data.data.sidebar.website }}">{{ projects.backToTOp }}</a>
 </section><!--//section-->
 {% endif %}

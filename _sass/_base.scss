@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "microsoft yahei", "Times New Roman", "宋体", Times, serif;
     color: $text-color-secondary;
     background: $smoky-white;
     font-size: 14px;
@@ -10,6 +10,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6  {
+    font-family: "microsoft yahei", "Times New Roman", "宋体", Times, serif;
     font-weight: 700;
 }
 
@@ -59,6 +60,7 @@ p {
         font-weight: 900;
         margin-top: 0;
         margin-bottom: 10px;
+        font-family: "SimHei";
     }
     .tagline {
         color: rgba(256, 256, 256, 0.6);
@@ -151,6 +153,30 @@ p {
             }
         }
     }
+    .skillset {
+        .item {
+            margin-bottom: 3px;
+            overflow: hidden;
+        }
+        .skill-title{
+            color: $text-color;
+        }
+        .level-title {
+            font-family: 'Roboto', sans-serif;
+            font-size: 14px;
+            margin-top: 0;
+        }
+        .level-bar {
+            height: 5px;
+            background: lighten($theme-color, 15%);
+            
+        }
+        .level-bar-inner {
+            height: 5px;
+            background: $smoky-white;
+        }
+    }
+    
 }
 
 .main-wrapper {
@@ -166,6 +192,11 @@ p {
         margin-top: 0;
         margin-bottom: 20px;
     }
+    .switch-lan {
+        font-size: 15px;
+        position: absolute;
+        right: 0;
+    }
     .section {
         margin-bottom: 60px;
     }
@@ -173,6 +204,10 @@ p {
     .experiences-section, .educations-section {
         .item {
             margin-bottom: 30px;
+            .description {
+                margin-bottom: 10px;
+                color: $text-grey;
+            }
         }
     }
     .upper-row {
@@ -185,7 +220,7 @@ p {
         font-size: 16px;
         margin-top: 0;
         margin-bottom: 0;
-        font-weight: 500;
+        font-weight: 800;
     }
     .time {
         position: absolute;
@@ -193,14 +228,17 @@ p {
         top: 0;
         color: $text-grey;
     }
-    .company, .university {
+    .university {
         margin-bottom: 10px;
         color: $text-grey;
     }
-
+    .company {
+        margin-bottom: 10px;
+        text-decoration:underline;
+    }
     .project-title {
-        font-size: 16px;
-        font-weight: 400;
+        font-size: 15px;
+        font-weight: 550;
         margin-top: 0;
         margin-bottom: 5px;
 	color: darken($theme-color, 15%);
@@ -222,7 +260,7 @@ p {
     }
     .publication-authors {
         font-style: italic;
-        color: $text-grey;
+        font-weight: 600;
         margin-bottom: 1px;
     }
     .publications-section {
@@ -235,26 +273,6 @@ p {
     }
 }
 
-
-.skillset {
-    .item {
-        margin-bottom: 15px;
-        overflow: hidden;
-    }
-    .level-title {
-        font-size: 14px;
-        margin-top: 0;
-        margin-bottom: 12px;
-    }
-    .level-bar {
-        height: 12px;
-        background: $smoky-white;
-    }
-    .level-bar-inner {
-        height: 12px;
-        background: lighten($theme-color, 15%);
-    }
-}
 
 
 
