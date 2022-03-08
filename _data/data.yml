@@ -1,47 +1,47 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want an education in the main section instead of in the sidebar
 
     # Profile information
-    name: 陈启莹
-    tagline: 后端工程师<br/>大数据工程师
+    name: 陳啟瑩
+    tagline: 後端工程師<br/>大數據工程師
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: chankeinjp@yahoo.co.jp
     phonecn: 136 7609 1404
-    website: chankein.github.io/Kein-cv-cn/ #do not add http://
+    phonejp: 080 9556 9252
+    website: chankein.github.io/Kein-cv-zh/ #do not add http://
     weixin: chankein
-    # line: chankein
+    line: chankein
     # linkedin: alandoe
     # xing: alandoe
     # github: chankein
     # telegram: # add your nickname without '@' sign
-    # gitlab:
+    gitlab:
     # http://localhost:4000/assets/resume_cn.pdf
     # https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
-    # resume: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
+    resume: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
     # bitbucket:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
-    # excel: http://localhost:4000/assets/resume_jp202201.xls
-    # word: http://localhost:4000/assets/resume_jp202201.xls
+    pdf: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
+    excel: http://localhost:4000/assets/resume_jp202201.xls
+    word: http://localhost:4000/assets/resume_jp202201.xls
 
     languages:
-      - idiom: 日语
-        level: 流畅:JLPT-N1
+      - idiom: 日語
+        level: 流暢:JLPT-N1
 
-      - idiom: 英语
-        level: 商务:TOEFL-76
+      - idiom: 英語
+        level: 商務:TOEFL-76
 
-    interests:
+    certification:
       - item: Java SE8 Gold
         link:
 
@@ -72,221 +72,328 @@ brief:
       <br/>
       Currently working in Japan as a permanent resident.<br/>
       Seeking job opportunities in Macao for family reasons.
-
+    
 career-profile:
-    title: 职业简介(Career Profile)
+    title: 職業簡介(Career Profile)
     summary: |
-      项目经验集中于大数据应用落地,拥有超过6年经验的资深大数据/后端工程师.
+      專案經驗集中於大數據應用落地,擁有超過6年經驗的資深大數據/後端工程師.
       <br/>
-      曾为日本政府户籍管理科,丰田Woven-city,富士胶片,思科,富士通提供系统开发服务.
-      <br/>
-      <br/>
-      致力于包括智能推荐系统,人性机械人应用,自动化网络配置,OCR文字识别等数据应用项目.
+      曾為日本政府戶籍管理科,豐田Woven-city,富士膠片,思科,富士通提供系統開發服務.
       <br/>
       <br/>
-      具备高度的机器学习知识和数据可视化能力.
+      致力於包括智能推薦系統,人性機械人應用,自動化網路配置,OCR文字識別等數據應用專案.
       <br/>
       <br/>
-      熟悉数据仓库设计和搭建,具有为日活3400万的社交APP搭建大数据仓库和分析平台的经验.
+      具備高度的機器學習知識和數據可視化能力.
       <br/>
-      
+      <br/>
+      熟悉數據倉庫設計和搭建,具有為日活3400萬的社交APP搭建大數據倉庫和分析平臺的經驗.
+      <br/>
+    changelanguage: To English
+    changelanguageurl: https://chankein.github.io/Kein-cv/ 
 
 experiences:
-    - role: 后端工程师
+    - role: 後端工程師
       time: 2019 - 至今
-      company: Outsourcing Technology(TSE Code:2427), 东京 
+      company: Outsourcing Technology(TSE Code:2427), 東京 
       details: |
-        以后端工程师的身份参与TRI-AD(现Woven planet),富士菲林和富士通网络的开发项目.
-        - 运用微服务系统开发技术,负责设计和开发了丰田智能都市(Woven City)智能物流配送系统的服务端部分. 该系统管理超过3000台配送机器人网络.
-        - 参与富士菲林负责的日本政府户籍科的户籍电子化促进项目,开发了5款windows软件辅助解决户籍系统.
-          通过导入OCR文字识别技术,将扫描图像格式的户籍藤本转换成结构化文字信息,实现将人工识别需十年以上的处理变为数小时以内的自动处理.
-        - 参与富士通网络公司的网络通信干线和网络设备可视化监测平台的开发,为NTT(日本电信)现有的网络线路系统和开发中的5G网络系统提供设备状态监测和网络线路可视化检测和自动故障报警服务.
+        以後端工程師的身份參與TRI-AD(現Woven planet),富士菲林和富士通網路的開發專案.
+        - 運用微服務系統開發技術,負責設計和開發了豐田智能都市(Woven City)智能物流配送系統的服務端部分. 該系統管理超過3000臺配送機器人網路.
+        - 參與富士菲林負責的日本政府戶籍科的戶籍電子化促進專案,開發了5款windows軟體輔助解決戶籍系統.
+          通過導入OCR文字識別技術,將掃描圖像格式的戶籍藤本轉換成結構化文字資訊,實現將人工識別需十年以上的處理變為數小時以內的自動處理.
+        - 參與富士通網路公司的網路通信幹線和網路設備可視化監測平臺的開發,為NTT(日本電信)現有的網路線路系統和開發中的5G網路系統提供設備狀態監測和網路線路可視化檢測和自動故障報警服務.
       description: | 
-        名词解释:
-        - TRI-AD: Toyota Research Institute - Advanced Development.丰田集团的核心研发机构
-        - Woven City: 位于日本静冈县内,可供超过3000户居民居住的小区.是由丰田集团主导开发用于展示未来人类居住概念的智能都市.
-        - OCR: Optical Character Recognition,文字识别技术
-        - NTT: Nippon Telegraph and Telephone,日本电信
+        名詞解釋:
+        - TRI-AD: Toyota Research Institute - Advanced Development.豐田集團的核心研發機構
+        - Woven City: 位於日本靜岡縣內,可供超過3000戶居民居住的社區.是由豐田集團主導開發用於展示未來人類居住概念的智能都市.
+        - OCR: Optical Character Recognition,文字識別技術
+        - NTT: Nippon Telegraph and Telephone,日本電信
 
-    - role: 后端工程师
+    - role: 後端工程師
       time: 2018 - 2019
-      company: Oriental Kingdom Group, 东京
+      company: Oriental Kingdom Group, 東京
       details: |
-        参与软银机器人和思科网络的开发项目.
-          - 参加软银旗下人形机器人Pepper的对企业开发项目,负责设计和执行Pepper管理系统和Pepper的软件项目测试.
-          - 参与开发了思科的SDN工具软件开发,开发了为大规模网络设备设置提供自适应学习功能的模块.
+        參與軟銀機器人和思科網路的開發專案.
+          - 參加軟銀旗下人形機器人Pepper的對企業開發專案,負責設計和執行Pepper管理系統和Pepper的軟體專案測試.
+          - 參與開發了思科的SDN工具軟體開發,開發了為大規模網路設備設置提供自適應學習功能的模組.
       description: | 
-        名词解释:
-        - SDN: Software-Defined Networking,软件定义网络.
+        名詞解釋:
+        - SDN: Software-Defined Networking,軟體定義網路.
     
-    - role: 大数据工程师
+    - role: 大數據工程師
       time: 2015 - 2018
-      company: 辣妈帮科技有限公司, 深圳
+      company: 辣媽幫科技有限公司, 深圳
       details: |
-        伴随着辣妈帮APP及其姐妹APP用户的快速增长,原有的数据处理和数据仓库系统变得难以满足日渐膨胀的数据量.
-        - 在我任职期间,参与设计和配置了新的数据仓库,满足了用户日活跃量从30万到340万的数据处理和存储需求.
-        - 因应临时数据需求,每年提供超过2000份数据提取汇报纪录.
-        - 在数据组内共同开发了OSS系统作为日常数据统计指标计算和展示,为公司内多个部门提供数据支持.
-        - 通过建立用户画像分析,A/B Test技术,为公司的用户开发策略,数据驱动开发提供了数据决策支持.
+        伴隨著辣媽幫APP及其姐妹APP用戶的快速增長,原有的數據處理和數據倉庫系統變得難以滿足日漸膨脹的數據量.
+        - 在我任職期間,參與設計和配置了新的數據倉庫,滿足了用戶日活躍量從30萬到340萬的數據處理和存儲需求.
+        - 因應臨時數據需求,每年提供超過2000份數據提取彙報紀錄.
+        - 在數據組內共同開發了OSS系統作為日常數據統計指標計算和展示,為公司內多個部門提供數據支持.
+        - 通過建立用戶畫像分析,A/B Test技術,為公司的用戶開發策略,數據驅動開發提供了數據決策支持.
       description: | 
-        名词解释:
-        - ETL: Extract-Transform-Load,数据抽取、转换和加载
+        名詞解釋:
+        - ETL: Extract-Transform-Load,數據抽取、轉換和加載
+    - role: 系統工程師
+      time: 2014.04 - 2015.09
+      company: Lino-A Co, 京都
+      details: |
+        用WordPress開發了面向遊客的多語言多平臺旅遊資訊系統,為下田市觀光協會,彥根市觀光協會提供服務.
 
+    - role: 剪輯師
+      time: 2008.04 - 2009.09
+      company: 遠目影視有限公司, 珠海
+      details: |
+        負責公司承接的廣告視頻和電視節目的後期剪輯.
+
+      goToProject: 點此轉到專案細節頁面.
 education:
-    - degree: 硕士
-      university: 大阪大学, 大阪
-      time: 2012 - 2014
+    - degree: 碩士
+      university: 大阪大學, 大阪
+      time: 2012.04 - 2014.03
       details: |
 
     - degree: 
-      university: 国书日本语学校, 东京
-      time: 2010 - 2011
+      university: 國書日本語學校, 東京
+      time: 2010.10 - 2011.09
       details: |
         To prepare for entering exam of doctor program.
 
     - degree: 本科
-      university: 华南理工大学, 广州
-      time: 2004 - 2008
+      university: 華南理工大學, 廣州
+      time: 2004.09 - 2008.07
       details: |
         p.
     
-projects:
-    title: 专业技能(Areas of Expertise)
+expertise:
+    title: 專業技能(Areas of Expertise)
     intro: >
-      拥有良好的编程能力,高性能系统设计技术,具备丰富的大数据应用开发经验,以及多语言的调查研究能力.
+      擁有良好的編程能力,高性能系統設計技術,具備豐富的大數據應用開發經驗,以及多語言的調查研究能力.
     assignments:
-      - title: 数据仓库设计及设置
+      - title: 數據倉庫設計及設置
         link: "#"
-        tagline: "丰富的数据库知识,具备将业务数据抽象成数据结构,独立设置数据仓库的能力."
+        tagline: "豐富的資料庫知識,具備將業務數據抽象成數據結構,獨立設置數據倉庫的能力."
 
-      - title: 数据流实时处理
+      - title: 數據流即時處理
         link: "#"
-        tagline: "通过SQL,Java,Scala,Python编写ETL处理开发,实现高效的数据流处理运算支持."
+        tagline: "通過SQL,Java,Scala,Python編寫ETL處理開發,實現高效的數據流處理運算支持."
 
-      - title: 数据可视化
+      - title: 數據可視化
         link: "#"
-        tagline: "除熟练掌握Power BI进行快速可视化页面制作外,也具有运用开发框架进行定制化数据可视化页面开发能力."
+        tagline: "除熟練掌握Power BI進行快速可視化頁面製作外,也具有運用開發框架進行定制化數據可視化頁面開發能力."
 
-      - title: 数据挖掘
+      - title: 數據挖掘
         link: "#"
-        tagline: "通过数据挖掘技术应用,为用户分析,数据驱动开发和商业决策提供数据支持."
+        tagline: "通過數據挖掘技術應用,為用戶分析,數據驅動開發和商業決策提供數據支持."
 
-      - title: Windows软件开发
+      - title: Windows軟體開發
         link: "#"
-        tagline: "以C#和WPF框架开发Windows小型程序的开发经验."
+        tagline: "以C#和WPF框架開發Windows小型程式的開發經驗."
 
-      - title: 软件测试
+      - title: 軟體測試
         link: "#"
-        tagline: "具备独立设计测试项,执行软件测试经验,以为开发项目提供质量控制提供支持."
+        tagline: "具備獨立設計測試項,執行軟體測試經驗,以為開發專案提供品質控制提供支持."
 
-      - title: 编程语言
+      - title: 編程語言
         link: "#"
-        tagline: "熟练掌握Python, Java,和C#编程语言."
+        tagline: "熟練掌握Python, Java,和C#編程語言."
 
-      - title: 算法知识
+      - title: 演算法知識
         link: "#"
-        tagline: "不断精进编程算法技术,曾通过重构代码将运算用时从700天加速到10分钟以内."
+        tagline: "不斷精進編程演算法技術,曾通過重構代碼將運算用時從700天加速到10分鐘以內."
 
-      - title: 自然语言
+      - title: 自然語言
         link: "#"
-        tagline: "除母语的普通话,粤语外,精通日英双语,可满足日常工作和技术调查需要."
+        tagline: "除母語的普通話,粵語外,精通日英雙語,可滿足日常工作和技術調查需要."
 
-      - title: 问题定位和解决
+      - title: 問題定位和解決
         link: "#"
-        tagline: "丰富的问题(bug)调查和系统资源优化经验."
+        tagline: "豐富的問題(bug)調查和系統資源優化經驗."
 
-publications:
+projects:
+    changelanguage: To English
+    changelanguageurl: https://chankein.github.io/Kein-cv/project.html 
+    backToTOp: 點此轉到簡歷首頁
     title: Projects
     intro: |
       Although most of the projects I participated in are related to AI, Big Data solutions, I play various roles in different projects that allow me to expand a wide skill.
       With experiences in the design phase, development phase, test phase, I hold a global view of system development.
       Therefore, I have a multi-aspect view when comes to a new project and am capable of most positions.
-
-      Project details:
-    papers:
+   
+    project:
       - title: The Computerization Project for Family Register in Japan(Fuji Film)
         link: "https://www.fujifilm.com/fbss/solution/public/"
-        authors: "System Engineer"
-        conference: The project is to detect mismatch data in the Certificate of Family Register in Japan by deploying OCR technology,
+        role: "System Engineer"
+        description: The project is to detect mismatch data in the Certificate of Family Register in Japan by deploying OCR technology,
                     and to adjust data errors by autoprocessing.</br>
-                    </br>
-                    Key Achievements:</br>
-                    ①:Co-decided data processing for each task.</br>
-                    ②:Designed and built data wharehouse for each App.</br>
-                    ③:Created and maintain structured document definition in OCR process for scaned data.</br>
-                    ④:Created batches to enhence the precision of Optical Character Recognition.</br>
-                    ⑤:Designed UI/UX and created windows Apps when human involve is required.</br>
-                    ⑥:Lead failure investigations, conduct necessary analysis and perform corrective action for OCR module failures.</br>
+        KeyAchievements: |
+                    1. Co-decided data processing for each task.
+                    1. Designed and built data wharehouse for each App.
+                    1. Created and maintain structured document definition in OCR process for scaned data.
+                    1. Created batches to enhence the precision of Optical Character Recognition.
+                    1. Designed UI/UX and created windows Apps when human involve is required.
+                    1. Lead failure investigations, conduct necessary analysis and perform corrective action for OCR module failures.
 
       - title: Toyota Smart Logistics System in Woven-City (Woven Planet)
         link: "https://www.woven-city.global/"
-        authors: "Server-Side Engineer"
-        conference: Woven-city is a future smart city prototype developed by Toyota.</br>
+        role: "Server-Side Engineer"
+        description: Woven-city is a future smart city prototype developed by Toyota.</br>
                     Toyota Smart Logistics System is one of the major functions in woven-city that provides door to door delivery service conducted by robots.</br>
-                    </br>
-                    Key Achievements:</br>
-                    ①:Abstract function model to entities model, designed system architecture base on microstructure architecture method.</br>
-                    ②:Designed data flow, database tables, inter-faces definitions and created relative specification documents.</br>
-                    ③:Created development/test/product environment indivitual base on container techonology by create docker-compose environments that are consistent and isolated.</br>
-                    ④:Developed Microstructure Services include restful-api, mqtt, rabbitmq sender/receiver entities under Spring Boots framework.</br>
-                    ⑤:Designed and conducted test cases for unit test, integration test and functional test for quality control.</br>
-                    ⑥:Created mock data and developed stub entities in Python for to be deveoloped internal interface and external system interface for testing purpose.</br>
+        KeyAchievements: |
+                    1. Abstract function model to entities model, designed system architecture base on microstructure architecture method.
+                    1. Designed data flow, database tables, inter-faces definitions and created relative specification documents.
+                    1. Created development/test/product environment indivitual base on container techonology by create docker-compose environments that are consistent and isolated.
+                    1. Developed Microstructure Services include restful-api, mqtt, rabbitmq sender/receiver entities under Spring Boots framework.
+                    1. Designed and conducted test cases for unit test, integration test and functional test for quality control.
+                    1. Created mock data and developed stub entities in Python for to be deveoloped internal interface and external system interface for testing purpose.
 
       - title: vSure (Fujitsu)
         link: "https://www.fujitsu.com/ca/en/products/network/products/vsure/"
-        authors: "Server-Side Engineer"
-        conference: vSure is a system that offers a single, multivendor solution that manages any technology across both physical and virtual infrastructure for Telecommunications companies.</br>
-                    </br>
-                    Key Achievements:</br>
-                    ①:Designed inter-faces definitions and created relative specification documents.</br>
-                    ②:Designed and conducted test cases for unit test and integration test for quality control.</br>
-                    ③:Diagnosed system bottleneck resource by creating monitoring scripts and analyzing system logs..</br>
-                    ④:Conducted code review and offer advice to optimize software performance.</br>
-                    ⑤:By conducting code refactoring, I reduced the complexity of the algorithm that managed to reduce the total time cost from more than 700 days to less than 10 minutes.   
+        role: "Server-Side Engineer"
+        description: vSure is a system that offers a single, multivendor solution that manages any technology across both physical and virtual infrastructure for Telecommunications companies.</br>
+        KeyAchievements: |
+                    1. Designed inter-faces definitions and created relative specification documents.
+                    1. Designed and conducted test cases for unit test and integration test for quality control.
+                    1. Diagnosed system bottleneck resource by creating monitoring scripts and analyzing system logs.
+                    1. Conducted code review and offer advice to optimize software performance.
+                    1. By conducting code refactoring, I reduced the complexity of the algorithm that managed to reduce the total time cost from more than 700 days to less than 10 minutes.   
 
       - title: To Business Solution Project (Softbank Robotics)
         link: "https://www.softbankrobotics.com/emea/en/pepper/"
-        authors: "Test Engineer"
-        conference: I was responsible for Quality Control in Apps development on pepper and the server-side management system for pepper.</br>
-                    </br>
-                    Key Achievements:</br>
-                    ①:Designed test cases for unit test, integration test, and functional test for pepper apps and server-side management system.</br>
-                    ②:Conducted UAT (User Acceptance Test) for apps install in pepper OS. Ensured that the products meet quality and reliability requirements before they were released to consumers</br>
-                    ③:Introduced selenium framework to conduct UX/UI automatic tests for the robot management system.</br>
-                    ④:Collected and analyzed logs uploaded from pepper system in AWS cloud server.</br>
-                    ⑤:Reproduced reported bugs and collected evidence to create bug reports to bug fix team.</br>
-                    ⑥:Traced bugs fix status by Redmine.
+        role: "Test Engineer"
+        description: I was responsible for Quality Control in Apps development on pepper and the server-side management system for pepper.</br>
+        KeyAchievements: |
+                    1. Designed test cases for unit test, integration test, and functional test for pepper apps and server-side management system.
+                    1. Conducted UAT (User Acceptance Test) for apps install in pepper OS. Ensured that the products meet quality and reliability requirements before they were released to consumers.
+                    1. Introduced selenium framework to conduct UX/UI automatic tests for the robot management system.
+                    1. Collected and analyzed logs uploaded from pepper system in AWS cloud server.
+                    1. Reproduced reported bugs and collected evidence to create bug reports to bug fix team.
+                    1. Traced bugs fix status by Redmine.
                     
 
       - title: NSO(Cisco)
         link: "https://www.cisco.com/c/en/us/products/cloud-systems-management/network-services-orchestrator/index.html/"
-        authors: "Module Developer"
-        conference: NSO provides a robust bridge linking network automation and orchestration tools with the underlying physical and virtual infrastructure.</br>
+        role: "Module Developer"
+        description: NSO provides a robust bridge linking network automation and orchestration tools with the underlying physical and virtual infrastructure.</br>
                     I was responsible for SDN package development.</br>
-                    </br>
-                    Key Achievements:</br>
-                    ①:Developed the network configuration mapping module to convert structured data from definition files to CDB database.</br>
-                    ②:Developed the configuration data handling module for setting up multi-vendor devices and network definitions.</br>
-                    ③:Developed test scripts for unit tests and integration tests.
+        KeyAchievements: |
+                    1. Developed the network configuration mapping module to convert structured data from definition files to CDB database.
+                    1. Developed the configuration data handling module for setting up multi-vendor devices and network definitions.
+                    1. Developed test scripts for unit tests and integration tests.
 
       - title: Data Team in Lamabang Corp
         link: "http://www.lamabang.com/article/detail/m-about.html/"
-        authors: "Big-Data Engineer"
-        conference: Lamabang is one of the biggest mobile social network for women in China. Besides the Lamabang app, Lamabang Crop runs 4 relative smartphone apps.</br>
+        role: "Big-Data Engineer"
+        description: Lamabang is one of the biggest mobile social network for women in China. Besides the Lamabang app, Lamabang Crop runs 4 relative smartphone apps.</br>
                     As a unicron company in China, the company face a challenge of explosive growth in data.
                     The data team also provides data support for the cross-function team.
-                    </br>
-                    Key Achievements:</br>
-                    ①:Designed, defined, tested, and managed over 3400 data buried points for user behavior tracking and aggregate purpose.</br>
-                    ②:Program and implement ETL processes and applications in SQL, shell scripts, Python scripts, and Scala scripts.</br>
-                    ③:Design and deploy databases architecture and systems infrastructure for corporate IT systems.</br>
-                    ④:Build and maintain OSS system under database team for data visualization and Operation Support to help manager group.</br>
-                    ⑤:Developed automotive modules to monitor abnormal access, detect abnormal user behavior and send alarms by WeChat/E-mail to Operation And Maintenance Team in real-time .</br>
-                    ⑥:Paticipated in A/B experiments with the BI team to deploy the strategies online.  
-                    ⑦:Introduced machine-learning technology to help create the user profile and analyze user behavior modeling. Increased 3.67% in average of 7 days User Retention Rate</br>
+        KeyAchievements: |
+                    1. Designed, defined, tested, and managed over 3400 data buried points for user behavior tracking and aggregate purpose.
+                    1. Program and implement ETL processes and applications in SQL, shell scripts, Python scripts, and Scala scripts.
+                    1. Design and deploy databases architecture and systems infrastructure for corporate IT systems.
+                    1. Build and maintain OSS system under database team for data visualization and Operation Support to help manager group.
+                    1. Developed automotive modules to monitor abnormal access, detect abnormal user behavior and send alarms by WeChat/E-mail to Operation And Maintenance Team in real-time.
+                    1. Paticipated in A/B experiments with the BI team to deploy the strategies online.  
+                    1. Introduced machine-learning technology to help create the user profile and analyze user behavior modeling. Increased 3.67% in average of 7 days User Retention Rate.
 
+skills-details:
+    title: Technical Skills
+    programming:
+          - name: Python
+            level: 98%
+
+          - name: R
+            level: 90%
+
+          - name: Java
+            level: 90%
+
+          - name: Scala
+            level: 90%
+          
+          - name: C#
+            level: 75%
+
+
+    database:
+          - name: Mysql
+            level: 90%
+
+          - name: PostgreSQL
+            level: 90%
+
+          - name: OracleDB
+            level: 90%
+
+          - name: Hadoop
+            level: 75%
+
+    dataVisualization:
+          - name: Power BI
+            level: 90%
+
+          - name: Excel
+            level: 90%
+
+    versionControl:
+          - name: Github
+            level: 90%
+
+          - name: Git
+            level: 75%
+
+    platform:
+          - name: Linux
+            level: 90%
+
+          - name: Windows
+            level: 75%
+
+          - name: MacOS
+            level: 50%
+
+    cloudComputing:
+          - name: AWS
+            level: 50%
+
+    containerTechnology:
+          - name: Docker
+            level: 90%
+
+          - name: Vagrant
+            level: 75%
+
+          - name: Ansible
+            level: 75%
+    framework:
+          - name: Flask
+            level: 75%
+
+          - name: Django
+            level: 75%
+
+          - name: Spring Boot
+            level: 75%
+
+          - name: WPF
+            level: 75%
+
+    testTools:
+          - name: Pytest
+            level: 75%  
+
+          - name: JUnit
+            level: 75% 
+
+          - name: Selenium
+            level: 75% 
+
+          - name: Postman
+            level: 75% 
+
+    UIDesign:
+          - name: Photoshop
+            level: 75%
 skills:
-    title: 技术栈(Technical Skills)
+    title: 技術棧(Technical Skills)
     programming:
           - name: Python,Java,Scala,C#
 
@@ -310,7 +417,7 @@ skills:
           - name: Docker,Vagrant,Ansible
 
     framework:
-          - name: Flask,Django,Spring Boot,WPF
+          - name: Spring Boot,Flask,Django,WPF
 
     testTools:
           - name: Pytest,Junit,Selenium,Postman
@@ -319,4 +426,4 @@ skills:
           - name: Photoshop
 
 footer: >
-    本在线简历由Chan Kein开发.
+    本線上簡歷由Chan Kein開發.
