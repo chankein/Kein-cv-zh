@@ -68,7 +68,7 @@ brief:
     title: About Me
     summary: |
       Senior Engineer with over 6 years of experience in practical AI/Big-Data projects.<br/>
-      Provide solutions for the Japanese Government, Toyota, Fuji Film(Xerox), Cisco, and Fujitsu Network Solutions.<br/>
+      Provide solutions for the Japanese Government, Toyota, Fuji Film(Xerox), and Fujitsu Network Solutions.<br/>
       <br/>
       Currently working in Japan as a permanent resident.<br/>
       Seeking job opportunities in Macao for family reasons.
@@ -78,10 +78,10 @@ career-profile:
     summary: |
       專案經驗集中於大數據應用落地,擁有超過6年經驗的資深大數據/後端工程師.
       <br/>
-      曾為日本政府戶籍管理科,豐田Woven-city,富士膠片,思科,富士通提供系統開發服務.
+      曾為日本政府戶籍管理科,豐田Woven-city,富士膠片,富士通提供系統開發服務.
       <br/>
       <br/>
-      致力於包括智能推薦系統,人性機械人應用,自動化網路配置,OCR文字識別等數據應用專案.
+      致力於包括智能推薦系統,人性機械人應用,自動化網路配置,OCR文字識別等數據應用技术項目.
       <br/>
       <br/>
       具備高度的機器學習知識和數據可視化能力.
@@ -94,12 +94,12 @@ career-profile:
 
 experiences:
     - role: 後端工程師
-      time: 2019 - 至今
+      time: 2019.09 - 至今
       company: Outsourcing Technology(TSE Code:2427), 東京 
       details: |
-        以後端工程師的身份參與TRI-AD(現Woven planet),富士菲林和富士通網路的開發專案.
+        以後端工程師的身份參與TRI-AD(現Woven planet),富士菲林和富士通網路的開發項目.
         - 運用微服務系統開發技術,負責設計和開發了豐田智能都市(Woven City)智能物流配送系統的服務端部分. 該系統管理超過3000臺配送機器人網路.
-        - 參與富士菲林負責的日本政府戶籍科的戶籍電子化促進專案,開發了5款windows軟體輔助解決戶籍系統.
+        - 參與富士菲林負責的日本政府戶籍科的戶籍電子化促進專案,開發了5款windows軟件輔助解決戶籍系統電子化中的問題.
           通過導入OCR文字識別技術,將掃描圖像格式的戶籍藤本轉換成結構化文字資訊,實現將人工識別需十年以上的處理變為數小時以內的自動處理.
         - 參與富士通網路公司的網路通信幹線和網路設備可視化監測平臺的開發,為NTT(日本電信)現有的網路線路系統和開發中的5G網路系統提供設備狀態監測和網路線路可視化檢測和自動故障報警服務.
       description: | 
@@ -110,18 +110,16 @@ experiences:
         - NTT: Nippon Telegraph and Telephone,日本電信
 
     - role: 後端工程師
-      time: 2018 - 2019
+      time: 2018.06 - 2019.08
       company: Oriental Kingdom Group, 東京
       details: |
-        參與軟銀機器人和思科網路的開發專案.
-          - 參加軟銀旗下人形機器人Pepper的對企業開發專案,負責設計和執行Pepper管理系統和Pepper的軟體專案測試.
-          - 參與開發了思科的SDN工具軟體開發,開發了為大規模網路設備設置提供自適應學習功能的模組.
+          - 參加軟銀旗下人形機器人Pepper的對企業開發專案,負責設計和執行Pepper管理系統和Pepper的軟件項目測試.
       description: | 
         名詞解釋:
-        - SDN: Software-Defined Networking,軟體定義網路.
+        - SDN: Software-Defined Networking,軟件定義網路.
     
     - role: 大數據工程師
-      time: 2015 - 2018
+      time: 2015.10 - 2018.05
       company: 辣媽幫科技有限公司, 深圳
       details: |
         伴隨著辣媽幫APP及其姐妹APP用戶的快速增長,原有的數據處理和數據倉庫系統變得難以滿足日漸膨脹的數據量.
@@ -136,7 +134,7 @@ experiences:
       time: 2014.04 - 2015.09
       company: Lino-A Co, 京都
       details: |
-        用WordPress開發了面向遊客的多語言多平臺旅遊資訊系統,為下田市觀光協會,彥根市觀光協會提供服務.
+        用WordPress開發了面向遊客的多語言多機種對應旅遊資訊系統平台,為下田市觀光協會,彥根市觀光協會提供服務.
 
     - role: 剪輯師
       time: 2008.04 - 2009.09
@@ -168,9 +166,9 @@ expertise:
     intro: >
       擁有良好的編程能力,高性能系統設計技術,具備豐富的大數據應用開發經驗,以及多語言的調查研究能力.
     assignments:
-      - title: 數據倉庫設計及設置
+      - title: 數據倉庫設計及配置
         link: "#"
-        tagline: "豐富的資料庫知識,具備將業務數據抽象成數據結構,獨立設置數據倉庫的能力."
+        tagline: "豐富的資料庫知識,具備將業務數據抽象成數據結構,獨立配置數據倉庫的能力."
 
       - title: 數據流即時處理
         link: "#"
@@ -184,13 +182,13 @@ expertise:
         link: "#"
         tagline: "通過數據挖掘技術應用,為用戶分析,數據驅動開發和商業決策提供數據支持."
 
-      - title: Windows軟體開發
+      - title: Windows軟件開發
         link: "#"
         tagline: "以C#和WPF框架開發Windows小型程式的開發經驗."
 
-      - title: 軟體測試
+      - title: 軟件測試
         link: "#"
-        tagline: "具備獨立設計測試項,執行軟體測試經驗,以為開發專案提供品質控制提供支持."
+        tagline: "具備獨立設計測試項,執行軟件測試經驗,以為開發專案提供品質控制提供支持."
 
       - title: 編程語言
         link: "#"
@@ -214,88 +212,76 @@ projects:
     backToTOp: 點此轉到簡歷首頁
     title: Projects
     intro: |
-      Although most of the projects I participated in are related to AI, Big Data solutions, I play various roles in different projects that allow me to expand a wide skill.
-      With experiences in the design phase, development phase, test phase, I hold a global view of system development.
-      Therefore, I have a multi-aspect view when comes to a new project and am capable of most positions.
+      我的項目經驗以AI,大數據相關項目為主.在不同項目中,分別以大數據工程師,後端工程師,測試工程師的角色,以第一人稱視覺參與了從架構設計,開發,測試到漏洞修補整個系統生命週期.
+      </br>
+      因此,當面對一個新項目,我具備項目整個週期的視野,隨時準備好面對各種新的挑戰.
    
     project:
-      - title: The Computerization Project for Family Register in Japan(Fuji Film)
+      - title: 日本戶籍系統電子化項目(富士菲林)
         link: "https://www.fujifilm.com/fbss/solution/public/"
-        role: "System Engineer"
-        description: The project is to detect mismatch data in the Certificate of Family Register in Japan by deploying OCR technology,
-                    and to adjust data errors by autoprocessing.</br>
+        role: "系統工程師"
+        description: 日本政府在推進戶籍管理電子化過程中,由於人工錄入錯誤,系統間接入,數據備份延時等因素產生的數據錯誤業務量巨大,需要通過導入文字識別技術和自動錯誤檢測來保證數據的正確性.項目中,我主要負責自動化程序的開發.
         KeyAchievements: |
-                    1. Co-decided data processing for each task.
-                    1. Designed and built data wharehouse for each App.
-                    1. Created and maintain structured document definition in OCR process for scaned data.
-                    1. Created batches to enhence the precision of Optical Character Recognition.
-                    1. Designed UI/UX and created windows Apps when human involve is required.
-                    1. Lead failure investigations, conduct necessary analysis and perform corrective action for OCR module failures.
+                    1. 參與業務處理流程的設計,保證項目的技術可行性.
+                    1. 設計和實裝各程序的數據庫.管理超過120張數據庫表格.
+                    1. 為文字掃描文檔設計和調試結構化文檔定義,抽象化文檔結構到數據庫.
+                    1. 通過開發補丁程序,將識別精度平均由65%提升到85%以上.
+                    1. 當程序需要引入人工介入時,負責設計和開發交互界面.
+                    1. 牽頭文字識別系統中發生的問題調查,提供處理方案.
 
-      - title: Toyota Smart Logistics System in Woven-City (Woven Planet)
+      - title: 豐田智能都市(Woven-city)-智能物流系統 (Woven Planet)
         link: "https://www.woven-city.global/"
-        role: "Server-Side Engineer"
-        description: Woven-city is a future smart city prototype developed by Toyota.</br>
-                    Toyota Smart Logistics System is one of the major functions in woven-city that provides door to door delivery service conducted by robots.</br>
+        role: "後端工程師"
+        description: Woven-city是由豐田主導開發,可容納約2000人居住,定位为用IT连接整个城镇的新一代“智慧城市”.</br>
+                    TSL(Toyota Smart Logistics)是其中一個重要的功能版塊,通過驅動機器人物流系統,為住民提供更方便的點對點物流服務.我在其中負責該板塊的服務端系統開發.</br>
         KeyAchievements: |
-                    1. Abstract function model to entities model, designed system architecture base on microstructure architecture method.
-                    1. Designed data flow, database tables, inter-faces definitions and created relative specification documents.
-                    1. Created development/test/product environment indivitual base on container techonology by create docker-compose environments that are consistent and isolated.
-                    1. Developed Microstructure Services include restful-api, mqtt, rabbitmq sender/receiver entities under Spring Boots framework.
-                    1. Designed and conducted test cases for unit test, integration test and functional test for quality control.
-                    1. Created mock data and developed stub entities in Python for to be deveoloped internal interface and external system interface for testing purpose.
+                    1. 根據業務流程,抽象功能模塊,設計微服務實體,實現擴展性和容錯性優秀的微服務架構.
+                    1. 設計數據流,數據表結構,接口定義並製作定義文檔.
+                    1. 通過使用docker-compose進行容器編排管理,保證開發/測試/產品環境的一致性和獨立性,杜絕隨著開發階段切換環境產生的問題.
+                    1. 運用Spring Boot 框架,開發分別基於Rest-api,mqtt,rabbitmq標準的服務端/客戶端微服務實例.
+                    1. 設計和執行單元測試,結合測試和功能測試測試項目,確保項目的質量保證.
+                    1. 針對未開發完成的外部系統和內部實例,通過Python進行快速開發,滿足接口測試需求.
 
-      - title: vSure (Fujitsu)
+      - title: vSure (富士通)
         link: "https://www.fujitsu.com/ca/en/products/network/products/vsure/"
-        role: "Server-Side Engineer"
-        description: vSure is a system that offers a single, multivendor solution that manages any technology across both physical and virtual infrastructure for Telecommunications companies.</br>
+        role: "後端工程師"
+        description: vSure是一個集中管理和監控網絡設備和網絡幹線的系統平台.</br>
         KeyAchievements: |
-                    1. Designed inter-faces definitions and created relative specification documents.
-                    1. Designed and conducted test cases for unit test and integration test for quality control.
-                    1. Diagnosed system bottleneck resource by creating monitoring scripts and analyzing system logs.
-                    1. Conducted code review and offer advice to optimize software performance.
-                    1. By conducting code refactoring, I reduced the complexity of the algorithm that managed to reduce the total time cost from more than 700 days to less than 10 minutes.   
+                    1. 設計和定義對接接口.
+                    1. 設計和執行單元測試和結合測試樣例,確保程序質量.
+                    1. 通過創建資源監測腳本和分析日誌,定位系統性能瓶頸.
+                    1. 實施代碼審查,為提升運算性能和可維護性提供修改建議.
+                    1. 通過實施重構運算邏輯,將程序費時由重構前的預計需時700日以上縮短到重構後10分鐘以內完成.  
 
-      - title: To Business Solution Project (Softbank Robotics)
+      - title: 對企業開發項目 (軟銀機器人)
         link: "https://www.softbankrobotics.com/emea/en/pepper/"
-        role: "Test Engineer"
-        description: I was responsible for Quality Control in Apps development on pepper and the server-side management system for pepper.</br>
+        role: "測試工程師"
+        description: 負責人形機器人Pepper的管理系統測試和對企業定制開發的功能程序測試.</br>
         KeyAchievements: |
-                    1. Designed test cases for unit test, integration test, and functional test for pepper apps and server-side management system.
-                    1. Conducted UAT (User Acceptance Test) for apps install in pepper OS. Ensured that the products meet quality and reliability requirements before they were released to consumers.
-                    1. Introduced selenium framework to conduct UX/UI automatic tests for the robot management system.
-                    1. Collected and analyzed logs uploaded from pepper system in AWS cloud server.
-                    1. Reproduced reported bugs and collected evidence to create bug reports to bug fix team.
-                    1. Traced bugs fix status by Redmine.
+                    1. 負責對Pepper管理系統和Pepper App的設計測試計劃,包括單元測試,結合測試和功能測試的測試樣例設計和執行.
+                    1. 新版本App投放前,實施用戶驗收測試,確保機器人App的可靠性.
+                    1. 利用Selenium框架實現前端自動化測試.
+                    1. 自動收集Pepper分析故障日誌,分析清理相關日誌到Pepper管理系統的AWS雲端服務器.
+                    1. 重現新報告的程序錯誤,收集相關日誌,生成錯誤報告並提交至漏洞補丁相關小組.
+                    1. 通過Redmine平台,跟進和管理bug的解決進展.
                     
-
-      - title: NSO(Cisco)
-        link: "https://www.cisco.com/c/en/us/products/cloud-systems-management/network-services-orchestrator/index.html/"
-        role: "Module Developer"
-        description: NSO provides a robust bridge linking network automation and orchestration tools with the underlying physical and virtual infrastructure.</br>
-                    I was responsible for SDN package development.</br>
-        KeyAchievements: |
-                    1. Developed the network configuration mapping module to convert structured data from definition files to CDB database.
-                    1. Developed the configuration data handling module for setting up multi-vendor devices and network definitions.
-                    1. Developed test scripts for unit tests and integration tests.
-
-      - title: Data Team in Lamabang Corp
+      - title: 辣媽幫科技有限公司-數據組
         link: "http://www.lamabang.com/article/detail/m-about.html/"
-        role: "Big-Data Engineer"
-        description: Lamabang is one of the biggest mobile social network for women in China. Besides the Lamabang app, Lamabang Crop runs 4 relative smartphone apps.</br>
-                    As a unicron company in China, the company face a challenge of explosive growth in data.
-                    The data team also provides data support for the cross-function team.
+        role: "大數據工程師"
+        description: 辣媽幫app是中國最大的母嬰社交媒體之一.除辣媽幫app外,公司還運營孕期伴侶,辣媽幫商城,辣妈帮U选3款app.作為一家用戶快速增長的獨角獸企業,辣媽幫面臨數據量的快速增長以及如何用好數據的挑戰.
+                      數據組導入了新的數據倉庫以應對數據增長,開發了數據平台為公司各部門提供數據展示.
+                      
         KeyAchievements: |
-                    1. Designed, defined, tested, and managed over 3400 data buried points for user behavior tracking and aggregate purpose.
-                    1. Program and implement ETL processes and applications in SQL, shell scripts, Python scripts, and Scala scripts.
-                    1. Design and deploy databases architecture and systems infrastructure for corporate IT systems.
-                    1. Build and maintain OSS system under database team for data visualization and Operation Support to help manager group.
-                    1. Developed automotive modules to monitor abnormal access, detect abnormal user behavior and send alarms by WeChat/E-mail to Operation And Maintenance Team in real-time.
-                    1. Paticipated in A/B experiments with the BI team to deploy the strategies online.  
-                    1. Introduced machine-learning technology to help create the user profile and analyze user behavior modeling. Increased 3.67% in average of 7 days User Retention Rate.
+                    1. 設計,定義,測試和管理超過3400個埋點實現對用戶操作行為的追蹤和統計.
+                    1. 通過編寫SQL,shell腳本,Python腳本和Scala腳本,實現數據的ETL處理.
+                    1. 設計和設置數據倉儲架構,為後續數據運用提供底層支持.
+                    1. 開發及維護數據展示平台,為運營部門和管理提供數據可視化支持.
+                    1. 開發異常數據監測模塊,監測到數據異常時,通過發送微信信息和郵件實時通知運維團隊處理.
+                    1. 參與實施A/B測試,為app開發方向提供數據決策支持.  
+                    1. 建立用戶畫像,通過導入機器學習技術,分析用戶行為特性.平均提升了7天用户留存率3.67%.
 
 skills-details:
-    title: Technical Skills
+    title: 技術棧(Technical Skills)
     programming:
           - name: Python
             level: 98%
