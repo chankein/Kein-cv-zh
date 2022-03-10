@@ -81,13 +81,13 @@ career-profile:
       曾為日本政府戶籍管理科,豐田Woven-city,富士膠片,富士通提供系統開發服務.
       <br/>
       <br/>
-      致力於包括智能推薦系統,人性機械人應用,自動化網路配置,OCR文字識別等數據應用技术項目.
+      致力於包括智能推薦系統,人性機械人應用,OCR文字識別等數據應用技术項目.
       <br/>
       <br/>
       具備高度的機器學習知識和數據可視化能力.
       <br/>
       <br/>
-      熟悉數據倉庫設計和搭建,具有為日活3400萬的社交APP搭建大數據倉庫和分析平臺的經驗.
+      熟悉數據倉庫設計和搭建,具有為日活340萬的社交APP搭建大數據倉庫和分析平臺的經驗.
       <br/>
     changelanguage: To English
     changelanguageurl: https://chankein.github.io/Kein-cv/ 
@@ -109,7 +109,7 @@ experiences:
         - OCR: Optical Character Recognition,文字識別技術
         - NTT: Nippon Telegraph and Telephone,日本電信
 
-    - role: 後端工程師
+    - role: 測試工程師
       time: 2018.06 - 2019.08
       company: Oriental Kingdom Group, 東京
       details: |
