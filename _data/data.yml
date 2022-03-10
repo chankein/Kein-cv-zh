@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: 陳啟瑩
-    tagline: 後端工程師<br/>大數據工程師
+    tagline: 服務端工程師<br/>大數據工程師
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -21,10 +21,10 @@ sidebar:
     # xing: alandoe
     # github: chankein
     # telegram: # add your nickname without '@' sign
-    gitlab:
+    # gitlab:
     # http://localhost:4000/assets/resume_cn.pdf
     # https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
-    resume: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
+    # resume: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
     # bitbucket:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -76,30 +76,29 @@ brief:
 career-profile:
     title: 職業簡介(Career Profile)
     summary: |
-      專案經驗集中於大數據應用落地,擁有超過6年經驗的資深大數據/後端工程師.
+      超过6年工作经验的資深大數據及服務端開發工程師。
       <br/>
-      曾為日本政府戶籍管理科,豐田Woven-city,富士膠片,富士通提供系統開發服務.
+      熟練掌握Python,Java,R等多種編程語言進行高效開發。
       <br/>
+      熟悉多種MySQL,OracleDB等主流數據庫系統及Hadoop體系下的分佈式數據倉庫設計。
       <br/>
-      致力於包括智能推薦系統,人性機械人應用,OCR文字識別等數據應用技术項目.
+      擅長埋點設計及管理及數據可視化,曾以數據組身份開發OSS數據中台系統,為各部門提供數據可視化報表頁面支持。同時熟悉Power BI等一般的數據可視化軟件的應用。
       <br/>
+      具備數據挖掘,建立用戶畫像,智能推薦系統開發等數據應用經驗,為公司運營的APP的用戶分析,廣告投放,用戶留存策略等提供數據支持。
       <br/>
-      具備高度的機器學習知識和數據可視化能力.
-      <br/>
-      <br/>
-      熟悉數據倉庫設計和搭建,具有為日活340萬的社交APP搭建大數據倉庫和分析平臺的經驗.
+      作為服務端開發工程師,有豐富的AI/自動化開發項目經驗，為日本政府,豐田,軟銀機器人等著客戶的項目提供設計,開發及測試服務。
       <br/>
     changelanguage: To English
     changelanguageurl: https://chankein.github.io/Kein-cv/ 
 
 experiences:
-    - role: 後端工程師
+    - role: 服務端工程師
       time: 2019.09 - 至今
       company: Outsourcing Technology(TSE Code:2427), 東京 
       details: |
-        以後端工程師的身份參與TRI-AD(現Woven planet),富士菲林和富士通網路的開發項目.
+        以服務端工程師的身份參與TRI-AD(現Woven planet),富士菲林和富士通網路的開發項目.
         - 運用微服務系統開發技術,負責設計和開發了豐田智能都市(Woven City)智能物流配送系統的服務端部分. 該系統管理超過3000臺配送機器人網路.
-        - 參與富士菲林負責的日本政府戶籍科的戶籍電子化促進專案,開發了5款windows軟件輔助解決戶籍系統電子化中的問題.
+        - 參與富士菲林負責的日本政府戶籍科的戶籍電子化促進項目,開發了5款windows軟件輔助解決戶籍系統電子化中的問題.
           通過導入OCR文字識別技術,將掃描圖像格式的戶籍藤本轉換成結構化文字資訊,實現將人工識別需十年以上的處理變為數小時以內的自動處理.
         - 參與富士通網路公司的網路通信幹線和網路設備可視化監測平臺的開發,為NTT(日本電信)現有的網路線路系統和開發中的5G網路系統提供設備狀態監測和網路線路可視化檢測和自動故障報警服務.
       description: | 
@@ -113,7 +112,7 @@ experiences:
       time: 2018.06 - 2019.08
       company: Oriental Kingdom Group, 東京
       details: |
-          - 參加軟銀旗下人形機器人Pepper的對企業開發專案,負責設計和執行Pepper管理系統和Pepper的軟件項目測試.
+          - 參加軟銀旗下人形機器人Pepper的對企業開發項目,負責設計和執行Pepper管理系統和Pepper的軟件項目測試.
       description: | 
         名詞解釋:
         - SDN: Software-Defined Networking,軟件定義網路.
@@ -122,7 +121,7 @@ experiences:
       time: 2015.10 - 2018.05
       company: 辣媽幫科技有限公司, 深圳
       details: |
-        伴隨著辣媽幫APP及其姐妹APP用戶的快速增長,原有的數據處理和數據倉庫系統變得難以滿足日漸膨脹的數據量.
+        辣媽幫app是中國最大的母嬰社交媒體之一.除辣媽幫app外,公司還運營孕期伴侶,辣媽幫商城,辣妈帮U选3款app.作為一家用戶快速增長的獨角獸企業,辣媽幫面臨數據量的快速增長以及如何用好數據的挑戰.
         - 在我任職期間,參與設計和配置了新的數據倉庫,滿足了用戶日活躍量從30萬到340萬的數據處理和存儲需求.
         - 因應臨時數據需求,每年提供超過2000份數據提取彙報紀錄.
         - 在數據組內共同開發了OSS系統作為日常數據統計指標計算和展示,為公司內多個部門提供數據支持.
@@ -142,7 +141,7 @@ experiences:
       details: |
         負責公司承接的廣告視頻和電視節目的後期剪輯.
 
-      goToProject: 點此轉到專案細節頁面.
+      goToProject: 點此轉到項目細節頁面.
 education:
     - degree: 碩士
       university: 大阪大學, 大阪
@@ -188,7 +187,7 @@ expertise:
 
       - title: 軟件測試
         link: "#"
-        tagline: "具備獨立設計測試項,執行軟件測試經驗,以為開發專案提供品質控制提供支持."
+        tagline: "具備獨立設計測試項,執行軟件測試經驗,以為開發項目提供品質控制提供支持."
 
       - title: 編程語言
         link: "#"
@@ -211,15 +210,18 @@ projects:
     changelanguageurl: https://chankein.github.io/Kein-cv/project.html 
     backToTOp: 點此轉到簡歷首頁
     title: Projects
-    intro: |
-      我的項目經驗以AI,大數據相關項目為主.在不同項目中,分別以大數據工程師,後端工程師,測試工程師的角色,以第一人稱視覺參與了從架構設計,開發,測試到漏洞修補整個系統生命週期.
-      當面對一個新項目,我具備項目整個週期的視野,隨時準備好面對各種新的挑戰.
+    intro: |  
+      我的項目經驗以AI,大數據相關項目為主.
+      <br/>
+      在不同項目中,分別以大數據工程師,服務端工程師,測試工程師的角色,參與了從架構設計,開發,測試到漏洞修補整個系統生命週期.
+      <br/>
+      當面對一個新項目,我具備整個項目週期的視野,隨時準備好面對各種新的挑戰.
    
     project:
       - title: 日本戶籍系統電子化項目(富士菲林)
         link: "https://www.fujifilm.com/fbss/solution/public/"
         role: "系統工程師"
-        description: 日本政府在推進戶籍管理電子化過程中,由於人工錄入錯誤,系統間接入,數據備份延時等因素產生的數據錯誤業務量巨大,需要通過導入文字識別技術和自動錯誤檢測來保證數據的正確性.項目中,我主要負責自動化程序的開發.
+        description: 日本政府在推進戶籍管理電子化過程中,由於人工錄入錯誤,系統間接入標準不對應,數據備份延時等因素產生的數據錯誤業務量巨大,需要通過導入文字識別技術和自動錯誤檢測來保證數據的正確性.項目中,我主要負責自動化程序的開發.
         KeyAchievements: |
                     1. 參與業務處理流程的設計,保證項目的技術可行性.
                     1. 設計和實裝各程序的數據庫.管理超過120張數據庫表格.
@@ -228,26 +230,26 @@ projects:
                     1. 當程序需要引入人工介入時,負責設計和開發交互界面.
                     1. 牽頭文字識別系統中發生的問題調查,提供處理方案.
 
-      - title: 豐田智能都市(Woven-city)-智能物流系統 (Woven Planet)
+      - title: 智能物流系統-豐田智能都市(TRI-AD)
         link: "https://www.woven-city.global/"
-        role: "後端工程師"
-        description: Woven-city是由豐田主導開發,可容納約2000人居住,定位为用IT连接整个城镇的新一代“智慧城市”.</br>
+        role: "服務端工程師"
+        description: 豐田智能都市(Woven-city)是由豐田主導開發,可容納約2000人居住,定位为用IT连接整个城镇的新一代“智慧城市”.</br>
                     TSL(Toyota Smart Logistics)是其中一個重要的功能版塊,通過驅動機器人物流系統,為住民提供更方便的點對點物流服務.我在其中負責該板塊的服務端系統開發.</br>
         KeyAchievements: |
                     1. 根據業務流程,抽象功能模塊,設計微服務實體,實現擴展性和容錯性優秀的微服務架構.
                     1. 設計數據流,數據表結構,接口定義並製作定義文檔.
                     1. 通過使用docker-compose進行容器編排管理,保證開發/測試/產品環境的一致性和獨立性,杜絕隨著開發階段切換環境產生的問題.
-                    1. 運用Spring Boot 框架,開發分別基於Rest-api,mqtt,rabbitmq標準的服務端/客戶端微服務實例.
-                    1. 設計和執行單元測試,結合測試和功能測試測試項目,確保項目的質量保證.
-                    1. 針對未開發完成的外部系統和內部實例,通過Python進行快速開發,滿足接口測試需求.
+                    1. 運用Spring Boot 框架,分別開發基於Rest-api,mqtt,rabbitmq標準的服務端/客戶端微服務實例.
+                    1. 設計和執行單元測試,結合測試和功能測試測試項目,保證項目質量.
+                    1. 針對未開發完成的外部系統和內部實例,通過Python進行快速開發,以滿足開發期間的接口測試需求.
 
       - title: vSure (富士通)
         link: "https://www.fujitsu.com/ca/en/products/network/products/vsure/"
-        role: "後端工程師"
-        description: vSure是一個集中管理和監控網絡設備和網絡幹線的系統平台.</br>
+        role: "服務端工程師"
+        description: vSure是一個集中管理和監控網絡設備和網絡幹線的系統平台.<br/>
         KeyAchievements: |
                     1. 設計和定義對接接口.
-                    1. 設計和執行單元測試和結合測試樣例,確保程序質量.
+                    1. 設計和執行單元測試和結合測試樣例,保證項目質量.
                     1. 通過創建資源監測腳本和分析日誌,定位系統性能瓶頸.
                     1. 實施代碼審查,為提升運算性能和可維護性提供修改建議.
                     1. 通過實施重構運算邏輯,將程序費時由重構前的預計需時700日以上縮短到重構後10分鐘以內完成.  
@@ -257,8 +259,8 @@ projects:
         role: "測試工程師"
         description: 負責人形機器人Pepper的管理系統測試和對企業定制開發的功能程序測試.</br>
         KeyAchievements: |
-                    1. 負責對Pepper管理系統和Pepper App的設計測試計劃,包括單元測試,結合測試和功能測試的測試樣例設計和執行.
-                    1. 新版本App投放前,實施用戶驗收測試,確保機器人App的可靠性.
+                    1. 負責設計和執行對Pepper管理系統和Pepper App的各階段測試計劃.測試計劃分別包括單元測試,結合測試和功能測試.
+                    1. 新版本App投放前,實施用戶驗收測試,確保機器人App的可靠性和功能性.
                     1. 利用Selenium框架實現前端自動化測試.
                     1. 自動收集Pepper分析故障日誌,分析清理相關日誌到Pepper管理系統的AWS雲端服務器.
                     1. 重現新報告的程序錯誤,收集相關日誌,生成錯誤報告並提交至漏洞補丁相關小組.
@@ -267,17 +269,20 @@ projects:
       - title: 辣媽幫科技有限公司-數據組
         link: "http://www.lamabang.com/article/detail/m-about.html/"
         role: "大數據工程師"
-        description: 辣媽幫app是中國最大的母嬰社交媒體之一.除辣媽幫app外,公司還運營孕期伴侶,辣媽幫商城,辣妈帮U选3款app.作為一家用戶快速增長的獨角獸企業,辣媽幫面臨數據量的快速增長以及如何用好數據的挑戰.
+        description: 辣媽幫app是中國最大的母嬰社交媒體之一.除辣媽幫app外,公司還運營孕期伴侶,辣媽幫商城,辣妈帮U选3款app.
+                      <br/>
+                      作為一家用戶快速增長的獨角獸企業,辣媽幫面臨數據量的快速增長以及如何用好數據的挑戰.
+                      <br/>
                       數據組導入了新的數據倉庫以應對數據增長,開發了數據平台為公司各部門提供數據展示.
                       
         KeyAchievements: |
-                    1. 設計,定義,測試和管理超過3400個埋點實現對用戶操作行為的追蹤和統計.
+                    1. 設計,定義,測試和管理超過3400個埋點,實現對用戶操作行為的追蹤和統計.
                     1. 通過編寫SQL,shell腳本,Python腳本和Scala腳本,實現數據的ETL處理.
                     1. 設計和設置數據倉儲架構,為後續數據運用提供底層支持.
                     1. 開發及維護數據展示平台,為運營部門和管理提供數據可視化支持.
                     1. 開發異常數據監測模塊,監測到數據異常時,通過發送微信信息和郵件實時通知運維團隊處理.
                     1. 參與實施A/B測試,為app開發方向提供數據決策支持.  
-                    1. 建立用戶畫像,通過導入機器學習技術,分析用戶行為特性.平均提升了7天用户留存率3.67%.
+                    1. 建立用戶畫像,通過導入機器學習技術,分析用戶行為特性.平均提升了7天用户留存率7.67%.
 
 skills-details:
     title: 技術棧(Technical Skills)
