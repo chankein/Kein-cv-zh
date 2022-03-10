@@ -30,9 +30,9 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
-    excel: https://chankein.github.io/Kein-cv-zh/assets/陳啟瑩簡歷(ChenQiying)_中文.docx
-    word: https://chankein.github.io/Kein-cv-zh/assets/resume_jp202201.xls
+    pdf: https://chankein.github.io/Kein-cv-zh/assets/陳啟瑩簡歷(ChenQiying)_中文.pdf
+    excel: https://chankein.github.io/Kein-cv-zh/assets/resume_jp202201.xls
+    word: https://chankein.github.io/Kein-cv-zh/assets/陳啟瑩簡歷(ChenQiying)_中文.docx
 
     languages:
       - idiom: 日語
