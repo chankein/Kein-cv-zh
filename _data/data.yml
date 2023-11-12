@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: 陳啟瑩
-    tagline: 服務端工程師<br/>大數據工程師
+    tagline: 全栈工程師(擅長大數據和人工智能領域的應用)
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -67,7 +67,7 @@ sidebar:
 brief:
     title: About Me
     summary: |
-      Senior Engineer with over 6 years of experience in practical AI/Big-Data projects.<br/>
+      Senior Engineer with over 8 years of experience in practical AI/Big-Data projects.<br/>
       Provide solutions for the Japanese Government, Toyota, Fuji Film(Xerox), and Fujitsu Network Solutions.<br/>
       <br/>
       Currently working in Japan as a permanent resident.<br/>
@@ -76,7 +76,7 @@ brief:
 career-profile:
     title: 職業簡介(Career Profile)
     summary: |
-      超过6年工作经验的資深大數據及服務端開發工程師。
+      深耕大數據及服務端開發,超过8年工作经验的全栈工程师。
       <br/>
       熟練掌握Python,Java,R等多種編程語言進行高效開發。
       <br/>
@@ -92,8 +92,18 @@ career-profile:
     changelanguageurl: https://chankein.github.io/Kein-cv/ 
 
 experiences:
+    - role: 全棧工程師
+      time: 2022.10 - 至今
+      company: Amigo獨立工作室, 東京 
+      details: |
+        - Nanamusic項目:負責日本K歌App:Nanamusic的後端管理開發和系統維護,及時應對版本更新，惡意攻擊等造成的系統故障。
+        - 日本人流統計系統:日本三大電信商之一softbank的內部項目。通過獲取信號基地站和GPS定位數據,持續管理移動電話的位置情報,形成占日本約三分一人口的數據倉庫。我主要負責底層框架的檢證調查,以及部分可視化任務。
+        - 日本旅遊行程自動生成APP:個人開發的iOS項目。App根據用戶輸入的起點終點,移動方法和旅遊目的地信息,自動規劃行程方案。行程方案提供包含地圖導航,換乘路線,行程時間表等情報。
+      description: | 
+      
+
     - role: 服務端工程師(版块主管)
-      time: 2019.09 - 至今
+      time: 2019.09 - 2022.10
       company: Outsourcing Technology(TSE Code:2427), 東京 
       details: |
         以服務端工程師的身份參與TRI-AD(現Woven planet),富士菲林和富士通網路的開發項目.
@@ -103,7 +113,7 @@ experiences:
         - 參與富士通網路公司的網路通信幹線和網路設備可視化監測平臺的開發,為NTT(日本電信)現有的網路線路系統和開發中的5G網路系統提供設備狀態監測和網路線路可視化檢測和自動故障報警服務.
       description: | 
         名詞解釋:
-        - TRI-AD: Toyota Research Institute - Advanced Development.豐田集團的核心研發機構
+        - TRI-AD: 豐田集團的核心研發機構.Toyota Research Institute - Advanced Development.
         - Woven City: 位於日本靜岡縣內,可供超過3000戶居民居住的社區.是由豐田集團主導開發用於展示未來人類居住概念的智能都市.
         - OCR: Optical Character Recognition,文字識別技術
         - NTT: Nippon Telegraph and Telephone,日本電信
@@ -163,7 +173,7 @@ education:
 expertise:
     title: 專業技能(Areas of Expertise)
     intro: >
-      擁有良好的編程能力,高性能系統設計技術,具備豐富的大數據應用開發經驗,以及多語言的調查研究能力.
+      作為全棧工程師,擁有較廣的技術儲備。特別是良好的編程能力,高性能系統設計技術,具備豐富的大數據應用開發經驗,以及多語言的調查研究能力。同時具備獨立開發iOS和windows程序的能力。
     assignments:
       - title: 數據倉庫設計及配置
         link: "#"
@@ -180,6 +190,10 @@ expertise:
       - title: 數據挖掘
         link: "#"
         tagline: "通過數據挖掘技術應用,為用戶分析,數據驅動開發和商業決策提供數據支持."
+
+      - title: iOS軟件開發
+        link: "#"
+        tagline: "具備獨立設計UI,並運用swiftUI進行iOS App獨立開發的能力."
 
       - title: Windows軟件開發
         link: "#"
@@ -382,10 +396,13 @@ skills-details:
     UIDesign:
           - name: Photoshop
             level: 75%
+          
+          - name: Figma
+            level: 75%
 skills:
     title: 技術棧(Technical Skills)
     programming:
-          - name: Python,Java,Scala,C#
+          - name: Python,Java,Scala,SwiftUI,C#
 
     database:
           - name: Mysql,PostgreSQL,OracleDB
@@ -398,7 +415,6 @@ skills:
 
     platform:
           - name: Linux,Windows,MacOS
-
 
     cloudComputing:
           - name: AWS
@@ -413,7 +429,7 @@ skills:
           - name: Pytest,Junit,Selenium,Postman
 
     UIDesign:
-          - name: Photoshop
+          - name: Photoshop,Figma
 
 footer: >
     本線上簡歷由Chan Kein開發.
