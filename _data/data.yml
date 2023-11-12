@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: 陳啟瑩
-    tagline: 全栈工程師<br/>(擅長服务端devops和大數據&人工智能領域的應用)
+    tagline: 全栈工程师<br/>擅長服务端DevOps,<br/>大數據&人工智能領域應用
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -76,17 +76,17 @@ brief:
 career-profile:
     title: 職業簡介(Career Profile)
     summary: |
-      深耕大數據及服務端開發,超过8年工作经验的全栈工程师。
+      作為一名擁有超過8年工作經驗的全棧工程師,我專註於服務端開發和大數據應用。我的技術棧涵蓋了Python、Java、R、SwiftUI、C#等多種編程語言，使我能夠高效地進行項目開發。
       <br/>
-      熟練掌握Python,Java,R等多種編程語言進行高效開發。
+      在服務端開發方面,我不僅熟練使用Django、Spring Boot、Flask等多種框架,還具備在AWS/Azure雲服務和本地服務器上使用Ansible進行服務器自動化管理的經驗。我能夠根據項目需求靈活選擇和運用AWS雲服務。
       <br/>
-      熟悉多種MySQL,OracleDB等主流數據庫系統及Hadoop體系下的分佈式數據倉庫設計。
+      此外,我也有在Windows和iOS平臺上獨立進行WPF和SwiftUI開發的能力。我曾為日本政府、豐田、軟銀機器人等知名客戶提供AI/自動化開發項目的設計、開發和測試服務，我的工作不僅提高了項目效率，還顯著優化了客戶體驗。
       <br/>
-      擅長埋點設計及管理及數據可視化,曾以數據組身份開發OSS數據中台系統,為各部門提供數據可視化報表頁面支持。同時熟悉Power BI等一般的數據可視化軟件的應用。
+      作為一名大數據工程師,我熟悉MySQL、OracleDB等主流數據庫系統,以及Hadoop生態系統下的分布式數據倉庫設計,具備DataBricks的實際運用經驗。擅長進行埋點設計、管理和數據可視化。我曾作為數據團隊的一員開發OSS數據中臺系統,為各部門提供數據可視化報表頁面支持,並熟練使用Power BI等數據可視化工具。
       <br/>
-      具備數據挖掘,建立用戶畫像,智能推薦系統開發等數據應用經驗,為公司運營的APP的用戶分析,廣告投放,用戶留存策略等提供數據支持。
+      在數據應用方面,我有豐富的經驗,包括數據挖掘、用戶畫像建立、智能推薦系統開發等。我為公司運營的APP提供用戶分析、廣告投放、用戶留存策略等方面的數據支持,有效提升了用戶參與度和業務成果。
       <br/>
-      作為服務端開發工程師,有豐富的AI/自動化開發項目經驗，為日本政府,豐田,軟銀機器人等著客戶的項目提供設計,開發及測試服務。
+      我期待能在貴公司發揮我的技術專長，與團隊一起推動項目向前發展，實現更大的業務價值。
       <br/>
     changelanguage: To English
     changelanguageurl: https://chankein.github.io/Kein-cv/ 
@@ -96,7 +96,7 @@ experiences:
       time: 2022.10 - 至今
       company: Amigo獨立工作室, 東京 
       details: |
-        - Nanamusic項目:負責日本K歌App:Nanamusic的後端管理開發和系統維護,及時應對版本更新，惡意攻擊等造成的系統故障。
+        - Nanamusic項目:負責日本音樂創作App:Nanamusic的後端管理開發和系統維護,及時應對版本更新，惡意攻擊等造成的系統故障。
         - 日本人流統計系統:日本三大電信商之一softbank的內部項目。通過獲取信號基地站和GPS定位數據,持續管理移動電話的位置情報,形成占日本約三分一人口的數據倉庫。我主要負責底層框架的檢證調查,以及部分可視化任務。
         - 日本旅遊行程自動生成APP:個人開發的iOS項目。App根據用戶輸入的起點終點,移動方法和旅遊目的地信息,自動規劃行程方案。行程方案提供包含地圖導航,換乘路線,行程時間表等情報。
       description: | 
@@ -232,6 +232,15 @@ projects:
       當面對一個新項目,我具備整個項目週期的視野,隨時準備好面對各種新的挑戰.
    
     project:
+      - title: Nanamusic音乐App
+        link: "https://nana-music.com/"
+        role: "服務端工程師"
+        description: nanamusic是一个廣受日本音樂愛好者歡迎的音樂創作APP.我在團隊中擔任服務端開發及部分運營維護的職責。
+        KeyAchievements: |
+                    1. 擔任服務端API的開發和修改以及UI/UT測試.保障版本更新同時,防範。經過我的調優,3600多個
+                    1. 負責雲服務平台如AWS的開發管理.
+                    1. 開發,改進運營管理平台,以提高運營人員對侵犯版權的作品的封禁,樂曲數據的更新等。
+
       - title: 日本戶籍系統電子化項目(富士菲林)
         link: "https://www.fujifilm.com/fbss/solution/public/"
         role: "系統工程師"
