@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: 陳啟瑩
-    tagline: 全栈工程师<br/>擅長服务端DevOps,<br/>大數據&人工智能領域應用
+    tagline: 全栈工程师<br/>擅長服务端DevOps<br/>大數據&人工智能領域應用
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -193,7 +193,7 @@ expertise:
 
       - title: iOS軟件開發
         link: "#"
-        tagline: "具備獨立設計UI,並運用swiftUI進行iOS App獨立開發的能力."
+        tagline: "具備獨立設計UI,並運用SwiftUI進行iOS App獨立開發的能力."
 
       - title: Windows軟件開發
         link: "#"
@@ -233,6 +233,16 @@ projects:
    
     project:
     
+      - title: 日本旅遊行程自動生成APP
+        link: ""
+        role: "全棧工程師"
+        description: 日本旅遊行程自動生成APP是由我個人獨立開發的旅遊行程生成APP,用戶通過輸入出發地和目的地,點選想去的景點,APP即可為用戶生成合理的行程路線和時間安排。
+        KeyAchievements: |
+                    1. 撰寫項目策劃案,分析整理用戶需求和技術實現方案。
+                    1. 使用Figma進行UI設計。
+                    1. 運用GitHub Broad自行進行項目管理,包括項目進度控制,issue管理,實現敏捷開發。
+                    1. 靈活運用SwiftUI,引入CloudKit,MapKit等模塊,自行實現行程規劃算法,完成iOS程序開發。
+
       - title: 全国人流统计
         link: "https://www.softbank.jp/biz/services/analytics/ugoki/"
         role: "大數據工程師"
@@ -244,13 +254,13 @@ projects:
       - title: Nanamusic音乐App
         link: "https://nana-music.com/"
         role: "服務端工程師"
-        description: nanamusic是一个廣受日本音樂愛好者歡迎的音樂創作APP.我在團隊中擔任服務端開發及部分運營維護的職責。
+        description: nanamusic是一个在日本音樂愛好者中廣受歡迎的音樂創作APP。作為團隊中的服務端工程師,我負責了服務端的開發及部分運維任務。
         KeyAchievements: |
-                    1. 擔任服務端API的開發和修改以及UI/UT測試。保障版本更新同時,防範。
-                    1. 優化CI/CD工具的處理流程,將原本需要4個小時執行時間的3600多個服務端UI測試被縮短到1個多小時,提升了開發效率。
-                    1. 負責雲服務平台如AWS的IaC(Infrastrueture as Code)開發管理,降低人工操作雲服務時發生誤操作的概率。
-                    1. 監控服務器資源,及時應對服務器崩潰,必要時配合操作版本回滾,對惡意攻擊採取封禁IP等措施。
-                    1. 通過開發,改進運營管理平台,提高運營人員對侵犯版權的作品的封禁,樂曲數據的更新等日常運營管理的效率。
+                    1. 服務端API開發與維護: 負責服務端API的開發、修改和UI/UT測試,確保應用版本更新的同時,維護系統穩定性和安全性。
+                    1. CI/CD流程優化: 通過優化CI/CD工具處理流程,將3600多個服務端UI測試的執行時間從4小時縮短至1小時,顯著提升了開發效率。
+                    1. 雲服務管理: 負責AWS等雲服務平臺的IaC(Infrastructure as Code)開發管理,減少了人工操作時的錯誤概率,提高了系統的可靠性。
+                    1. 服務器監控與應急處理: 監控服務器資源,及時響應服務器故障,必要時進行版本回滾,對抗惡意攻擊,如封禁IP等。
+                    1. 運營管理平臺開發: 通過開發和改進運營管理平臺，提高了運營團隊對侵犯版權作品的處理效率，以及樂曲數據的及時更新。
 
       - title: 日本戶籍系統電子化項目(富士菲林)
         link: "https://www.fujifilm.com/fbss/solution/public/"
@@ -332,6 +342,9 @@ skills-details:
 
           - name: Scala
             level: 90%
+
+          - name: Swift
+            level: 75%
           
           - name: C#
             level: 75%
@@ -378,6 +391,9 @@ skills-details:
           - name: AWS
             level: 50%
 
+          - name: Google Cloud
+            level: 30%
+
     containerTechnology:
           - name: Docker
             level: 90%
@@ -387,6 +403,7 @@ skills-details:
 
           - name: Ansible
             level: 75%
+
     framework:
           - name: Flask
             level: 75%
@@ -397,8 +414,11 @@ skills-details:
           - name: Spring Boot
             level: 75%
 
+          - name: SwiftUI
+            level: 60%
+
           - name: WPF
-            level: 75%
+            level: 60%
 
     testTools:
           - name: Pytest

@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:4.1.0-fix
+FROM jekyll/jekyll
 VOLUME ./  /var/www/html/
 USER root
 EXPOSE 4000
