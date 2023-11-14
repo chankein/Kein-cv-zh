@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: 陳啟瑩
-    tagline: 全栈工程师<br/>擅長服务端DevOps<br/>大數據&人工智能領域應用
+    tagline: 全栈工程师
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
