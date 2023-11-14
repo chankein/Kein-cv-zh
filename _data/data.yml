@@ -225,7 +225,7 @@ projects:
     backToTOp: 點此轉到簡歷首頁
     title: 項目經驗(Projects)
     intro: |  
-      我的項目經驗以AI,大數據相關項目為主.
+      我的項目經驗以服务端工程师和AI,大數據相關項目為主.
       <br/>
       在不同項目中,分別以大數據工程師,服務端工程師,測試工程師的角色,參與了從架構設計,開發,測試到漏洞修補整個系統生命週期.
       <br/>
@@ -442,7 +442,7 @@ skills-details:
 skills:
     title: 技術棧(Technical Skills)
     programming:
-          - name: Python,Java,Scala,SwiftUI,C#
+          - name: Python,Java,Scala,Swift,C#
 
     database:
           - name: Mysql,PostgreSQL,OracleDB
@@ -463,7 +463,7 @@ skills:
           - name: Docker,Vagrant,Ansible
 
     framework:
-          - name: Spring Boot,Flask,Django,WPF
+          - name: Spring Boot,Flask,Django,SwiftUI,WPF
 
     testTools:
           - name: Pytest,Junit,Selenium,Postman
