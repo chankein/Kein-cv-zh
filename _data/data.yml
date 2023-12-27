@@ -31,7 +31,7 @@ sidebar:
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://chankein.github.io/Kein-cv-zh/assets/陳啟瑩簡歷(ChenQiying)_中文.pdf
-    excel: https://chankein.github.io/Kein-cv-zh/assets/resume_jp202201.xls
+    excel: https://chankein.github.io/Kein-cv-zh/assets/陳啟瑩履歴書202312.xls
     word: https://chankein.github.io/Kein-cv-zh/assets/陳啟瑩簡歷(ChenQiying)_中文.docx
 
     languages:
@@ -78,7 +78,7 @@ career-profile:
     summary: |
       作為一名擁有超過8年工作經驗的全棧工程師,擁有較廣的技術儲備。特別是良好的編程能力,高性能系統設計技術,具備豐富的大數據應用開發經驗,以及多語言的調查研究能力。同時,亦具備獨立開發iOS和windows程序的能力。
       <br/>
-      在我的職業生涯中,曾務于日本政府,豐田集團,樂天Pay,軟銀機械人,富士菲林,富士通,思科,音樂創作公司Nana Music,獨角獸企業辣媽幫有限公司等著名實體和企業,為其項目實現提供快速,穩定,堅實的技術解決方案而廣受好評。
+      在我的職業生涯中,曾務于日本政府,豐田集團,樂天Pay,軟銀機械人,富士菲林,富士通,音樂創作公司Nana Music,獨角獸企業辣媽幫有限公司等著名實體和企業,為其項目實現提供快速,穩定,堅實的技術解決方案而廣受好評。
       <br/>
       我期待能在貴公司發揮我的技術專長，與團隊共同推動項目向前發展，實現更大的業務價值。
       <br/>
@@ -119,8 +119,6 @@ experiences:
       details: |
           - 參加軟銀旗下人形機器人Pepper的對企業開發項目,負責設計和執行Pepper管理系統和Pepper的軟件項目測試.
       description: | 
-        名詞解釋:
-        - SDN: Software-Defined Networking,軟件定義網路.
     
     - role: 大數據工程師
       time: 2015.10 - 2018.05
