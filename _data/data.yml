@@ -130,8 +130,7 @@ experiences:
         - 在數據組內共同開發了OSS系統作為日常數據統計指標計算和展示,為公司內多個部門提供數據支持.
         - 通過建立用戶畫像分析,A/B Test技術,為公司的用戶開發策略,數據驅動開發提供了數據決策支持.
       description: | 
-        名詞解釋:
-        - ETL: Extract-Transform-Load,數據抽取、轉換和加載
+
     - role: 系統工程師
       time: 2014.04 - 2015.09
       company: Lino-A Co, 京都
@@ -299,17 +298,6 @@ projects:
                     1. 運用Spring Boot 框架,分別開發基於Rest-api,mqtt,rabbitmq標準的服務端/客戶端微服務實例.
                     1. 設計和執行單元測試,結合測試和功能測試測試項目,保證項目質量.
                     1. 針對未開發完成的外部系統和內部實例,通過Python進行快速開發,以滿足開發期間的接口測試需求.
-
-      - title: vSure (富士通)
-        link: "https://www.fujitsu.com/ca/en/products/network/products/vsure/"
-        role: "服務端工程師"
-        description: vSure是一個集中管理和監控網絡設備和網絡幹線的系統平台.<br/>
-        KeyAchievements: |
-                    1. 設計和定義對接接口.
-                    1. 設計和執行單元測試和結合測試樣例,保證項目質量.
-                    1. 通過創建資源監測腳本和分析日誌,定位系統性能瓶頸.
-                    1. 實施代碼審查,為提升運算性能和可維護性提供修改建議.
-                    1. 通過實施重構運算邏輯,將程序費時由重構前的預計需時700日以上縮短到重構後10分鐘以內完成.  
 
       - title: 對企業開發項目 (軟銀機器人)
         link: "https://www.softbankrobotics.com/emea/en/pepper/"
