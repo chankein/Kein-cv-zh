@@ -6,13 +6,13 @@ sidebar:
     education: True # set to False if you want an education in the main section instead of in the sidebar
 
     # Profile information
-    name: 陳啟瑩
+    name: 陳啓瑩
     tagline: 全栈工程师
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: chankeinjp@yahoo.co.jp
-    phonecn: 136 7609 1404
+    email: kein.chan85@gmail.com
+    phonecn: 6560 3102
     phonejp: 080 9556 9252
     website: chankein.github.io/Kein-cv-zh/ #do not add http://
     weixin: KEINCHAN85
@@ -30,9 +30,9 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://chankein.github.io/Kein-cv-zh/assets/陳啟瑩簡歷(ChenQiying)_中文.pdf
-    excel: https://chankein.github.io/Kein-cv-zh/assets/陳啟瑩履歴書202312.xls
-    word: https://chankein.github.io/Kein-cv-zh/assets/陳啟瑩簡歷(ChenQiying)_中文.docx
+    pdf: https://chankein.github.io/Kein-cv-zh/assets/陳啓瑩簡歷(ChenQiying)_中文.pdf
+    excel: https://chankein.github.io/Kein-cv-zh/assets/陳啓瑩履歴書202505.xls
+    word: https://chankein.github.io/Kein-cv-zh/assets/陳啓瑩簡歷(ChenQiying)_中文.docx
 
     languages:
       - idiom: 日語
@@ -67,18 +67,18 @@ sidebar:
 brief:
     title: About Me
     summary: |
-      Senior Engineer with over 8 years of experience in practical AI/Big-Data projects.<br/>
-      Provide solutions for the Japanese Government, Toyota, Fuji Film(Xerox), and Fujitsu Network Solutions.<br/>
+      Senior Engineer with over 10 years of experience in practical AI/Big-Data projects.<br/>
+      Provide solutions for the Japanese Government, Toyota, LY Crop(Line Yahoo), Fuji Film(Xerox), and Fujitsu Network Solutions.<br/>
       <br/>
-      Currently working in Japan as a permanent resident.<br/>
+      I am a Macao Resident, currently working in Japan as a permanent resident.<br/>
       Seeking job opportunities in Macao for family reasons.
     
 career-profile:
     title: 職業簡介(Career Profile)
     summary: |
-      作為一名擁有超過8年工作經驗的全棧工程師,擁有較廣的技術儲備。特別是良好的編程能力,高性能系統設計技術,具備豐富的大數據應用開發經驗,以及多語言的調查研究能力。同時,亦具備獨立開發iOS和windows程序的能力。
+      作為一名擁有超過10年工作經驗的全棧工程師,擁有較廣的技術儲備。特別是良好的編程能力,高性能系統設計技術,具備豐富的大數據應用開發經驗,以及多語言的調查研究能力。同時,亦具備獨立開發iOS和windows程序的能力。
       <br/>
-      在我的職業生涯中,曾務于日本政府,豐田集團,樂天Pay,軟銀機械人,富士菲林,富士通,音樂創作公司Nana Music,獨角獸企業辣媽幫有限公司等著名實體和企業,為其項目實現提供快速,穩定,堅實的技術解決方案而廣受好評。
+      在我的職業生涯中,曾務于日本政府,豐田集團,Line Yahoo集團,樂天Pay,軟銀集團,軟銀機械人,富士菲林,富士通,音樂創作公司Nana Music,獨角獸企業辣媽幫有限公司等著名實體和企業,為其項目實現提供快速,穩定,堅實的技術解決方案而廣受好評。
       <br/>
       我期待能在貴公司發揮我的技術專長，與團隊共同推動項目向前發展，實現更大的業務價值。
       <br/>
@@ -93,11 +93,13 @@ experiences:
         - 樂天Pay(即時支付)項目:樂天Pay是日本第二大電子支付軟件。帶領後端團隊開發信用卡和電子支付/充值功能的後端部分的功能更新。
         - Nanamusic項目:負責日本音樂創作App:Nanamusic的後端管理開發和系統維護,及時應對版本更新，惡意攻擊等造成的系統故障。
         - 日本人流統計系統:日本三大電信商之一softbank的內部項目。通過獲取信號基地站和GPS定位數據,持續管理移動電話的位置情報,形成占日本約三分一人口的數據倉庫。我主要負責底層框架的檢證調查,以及部分可視化任務。
+        - LY集團數據倉庫遷移:作為技術組長兼項目經理,負責為日本Line Yahoo集團現有的本地數據中心Teradata向Redshift的遷移項目提供技術支持:包括Teradata至AWS Redshift的技术方案验证,所需资源评估,迁移进度管理,标准化流程开发,数据一致性保障。
+        - Azas項目:Azas是一款面向建設現場的數字化安全管理平台,通過智能手機APP讓工人自主上報日常安全隱患並記錄安全行爲,結合即時表彰機制促進現場安全文化培育,最終實現施工環境的安全優化。负责核心模块实现与系统兼容性维护。
         - 日本旅遊行程自動生成APP:個人開發的iOS項目。App根據用戶輸入的起點終點,移動方法和旅遊目的地信息,自動規劃行程方案。行程方案提供包含地圖導航,換乘路線,行程時間表等情報。
       description: | 
       
 
-    - role: 服務端工程師(版块主管)
+    - role: 服務端工程師(後端技術專家)
       time: 2019.09 - 2022.10
       company: OST株式會社(TSE Code:2427), 東京 
       details: |
@@ -113,7 +115,7 @@ experiences:
         - OCR: Optical Character Recognition,文字識別技術
         - NTT: Nippon Telegraph and Telephone,日本電信
 
-    - role: 測試工程師(质控经理)
+    - role: 測試工程師(技術專家)
       time: 2018.06 - 2019.08
       company: Oriental Kingdom Group, 東京
       details: |
@@ -237,7 +239,7 @@ projects:
     project:
       - title: 樂天Pay
         link: "https://payment.rakuten.co.jp/"
-        role: "後端小組組長"
+        role: "後端小組技術組長"
         description: 樂天Pay是日本的頭部電子支付軟件,我帶領的小組負責服務端的部分開發任務。
         KeyAchievements: |
                     1. 通過Jira管理項目的進度,分配成員的任務,跟進Issue的應對。
@@ -258,12 +260,32 @@ projects:
 
       - title: 全国人流统计
         link: "https://www.softbank.jp/biz/services/analytics/ugoki/"
-        role: "大數據工程師"
+        role: "大數據工程師(技術組長)"
         description: 全国人流统计是日本三大電信營運商之一的Softbank實施的項目。通過運用Softbank的移動電話基站數據,結合終端設備的位置信息,生成了人流數據。這些數據不僅包括人民在何時何地的分佈情況,還涵蓋了他們的移動路徑和交通方式,從而可以用於分析和預測全國的1.2億人口的人流動態。
         KeyAchievements: |
                     1. 負責對從本地數據倉庫遷移到雲平台上的選型,最終選定Databricks平台作為遷移目標,通過對技術驗證,保障現有系統和腳本順利遷移。
                     1. 負責對異常數據的檢測跟蹤,提供數據在地圖上的可視化工具幫助定位分析數據異常。
 
+      - title: LY集團數據倉庫遷移
+        link: "https://www.lycorp.co.jp/ja/company/"
+        role: "技術組長兼項目經理"
+        description: Line Yahoo(LY集团)是日本最大的互联网集团,旗下业务包括:1,即时通讯软件Line(覆盖日本71%人口)2,电子支付平台PayPay(市场份额超66%)3,日文搜索引擎Yahoo Japan(市占率第一)4,日本头部电商平台。为应对数据量增长并降低运营成本,集团计划在3-5年内将基于Teradata的本地数据中心迁移至AWS Redshift云端平台。
+        KeyAchievements: |
+                    1. 技术调研:系统分析Teradata与Redshift的数据库技术差异,制定分阶段迁移策略。
+                    1. 资源评估:测算迁移所需的硬件、人力及时间成本,为资源调配提供依据。
+                    1. 迁移管理:制定详细迁移计划,实时跟进并解决团队执行中的问题。
+                    1. 标准化流程:通过试点迁移,建立标准化操作方案(SOP)。
+                    1. 数据一致性保障：定义数据校验标准,开发自动化校验框架及脚本,并持续优化。
+
+      - title: Azas建築安全推進App項目
+        link: "https://sales.azas-token.com/"
+        role: "技術顧問兼項目經理"
+        description: Azas是一款面向建設現場的數字化安全管理平台,通過智能手機APP讓工人自主上報日常安全隱患並記錄安全行爲,結合即時表彰機制促進現場安全文化培育,最終實現施工環境的安全優化。
+        KeyAchievements: |
+                    1. 技术调研：主导新功能开发的技术可行性分析。
+                    1. 项目管理：定期跟进开发进度，协调解决突发问题。
+                    1. 跨平台适配:解决Android/iOS系统版本升级导致的React Native兼容性问题。
+      
       - title: 日本旅遊行程自動生成APP
         link: ""
         role: "全棧工程師"
@@ -355,20 +377,29 @@ skills-details:
           - name: Mysql
             level: 90%
 
-          - name: PostgreSQL
+          - name: PostgreSQL/Redshift
             level: 90%
 
           - name: OracleDB
             level: 90%
 
+          - name: Teradata
+            level: 85%
+
           - name: Hadoop
-            level: 75%
+            level: 85%
 
     dataVisualization:
+          - name: Microstrategy
+            level: 90%
+
           - name: Power BI
             level: 90%
 
           - name: Excel
+            level: 90%
+
+          - name: StreamLit
             level: 90%
 
     versionControl:
@@ -406,10 +437,13 @@ skills-details:
             level: 75%
 
     framework:
+          - name: Django
+            level: 75%
+
           - name: Flask
             level: 75%
 
-          - name: Django
+          - name: FastApi
             level: 75%
 
           - name: Spring Boot
@@ -446,10 +480,10 @@ skills:
           - name: Python,Java,Scala,Swift,C#
 
     database:
-          - name: Mysql,PostgreSQL,OracleDB
+          - name: Mysql,PostgreSQL,OracleDB,Redshift,Teradata
 
     dataVisualization:
-          - name: PowerBI,Excel
+          - name: Microstrategy,PowerBI,Excel
 
     versionControl:
           - name: Github,Git
@@ -464,7 +498,7 @@ skills:
           - name: Docker,Vagrant,Ansible
 
     framework:
-          - name: Spring Boot,Flask,Django,SwiftUI,WPF
+          - name: Spring Boot,Django,Flask,FastApi,SwiftUI,WPF
 
     testTools:
           - name: Pytest,Junit,Selenium,Postman
@@ -473,4 +507,4 @@ skills:
           - name: Photoshop,Figma
 
 footer: >
-    本線上簡歷由Chan Kein開發.
+    本線上簡歷由Chan Kein(陳啓瑩)開發.
