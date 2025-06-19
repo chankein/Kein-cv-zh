@@ -7,12 +7,12 @@ sidebar:
 
     # Profile information
     name: 陳啓瑩
-    tagline: 全栈工程师
+    tagline: 高级全栈技术顾问 & 数据架构师
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kein.chan85@gmail.com
-    phonecn: 6560 3102
+    phonecn: 853 6521 7615
     phonejp: 080 9556 9252
     website: chankein.github.io/Kein-cv-zh/ #do not add http://
     weixin: KEINCHAN85
@@ -70,23 +70,25 @@ brief:
       Senior Engineer with over 10 years of experience in practical AI/Big-Data projects.<br/>
       Provide solutions for the Japanese Government, Toyota, LY Crop(Line Yahoo), Fuji Film(Xerox), and Fujitsu Network Solutions.<br/>
       <br/>
-      I am a Macao Resident, currently working in Japan as a permanent resident.<br/>
-      Seeking job opportunities in Macao for family reasons.
+      I am a Macau Resident, currently working in Japan as a permanent resident.<br/>
+      Seeking job opportunities in Macau for family reasons.
     
 career-profile:
     title: 職業簡介(Career Profile)
     summary: |
-      作為一名擁有超過10年工作經驗的全棧工程師,擁有較廣的技術儲備。特別是良好的編程能力,高性能系統設計技術,具備豐富的大數據應用開發經驗,以及多語言的調查研究能力。同時,亦具備獨立開發iOS和windows程序的能力。
-      <br/>
-      在我的職業生涯中,曾務于日本政府,豐田集團,Line Yahoo集團,樂天Pay,軟銀集團,軟銀機械人,富士菲林,富士通,音樂創作公司Nana Music,獨角獸企業辣媽幫有限公司等著名實體和企業,為其項目實現提供快速,穩定,堅實的技術解決方案而廣受好評。
-      <br/>
-      我期待能在貴公司發揮我的技術專長，與團隊共同推動項目向前發展，實現更大的業務價值。
-      <br/>
+      **资深技术专家与项目负责人**，拥有10年以上全栈开发与大数据架构经验，擅长**复杂系统集成**和**数据驱动决策**。  
+      - **技术领导力**：在乐天Pay、LY集团等项目中，作为技术负责人领导5-10人跨职能团队，完成高并发支付系统优化、数据仓库迁移（200+TB）等大型项目，熟悉**敏捷开发**与**SDLC全流程**。  
+      - **数据解决方案**：为辣妈帮（340万日活用户）设计数据中台，通过用户画像与A/B测试提升留存率7.67%；为日本政府开发OCR系统，将人工处理时间从10年缩短至4小时。  
+      - **业务协同**：多次担任业务部门与技术团队的桥梁，优化需求文档流程（如丰田物流系统需求分析），降低跨部门沟通成本30%。  
+
+      **核心优势**：  
+      - 技术广度：全栈开发（Python/Java/SQL）、云架构（AWS）、数据可视化（Power BI）。  
+      - 多语言能力：日语（JLPT-N1）、英语、中文，适应国际化协作环境。  
     changelanguage: To English
     changelanguageurl: https://chankein.github.io/Kein-cv/ 
 
 experiences:
-    - role: 全棧工程師
+    - role: 全棧工程師/
       time: 2022.10 - 至今
       company: Amigo獨立工作室, 東京 
       details: |
