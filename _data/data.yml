@@ -169,7 +169,7 @@ education:
 expertise:
     title: 專業技能(Areas of Expertise)
     intro: >
-      了解更多技術細節,請前往我的技術博客:https://chankein.github.io/
+      了解更多技術細節,請前往我的技術博客:<a href="https://chankein.github.io/">https://chankein.github.io/</a>
     assignments:
       - title: 編程語言與框架
         link: "#"
