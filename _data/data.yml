@@ -7,13 +7,13 @@ sidebar:
 
     # Profile information
     name: 陳啓瑩
-    tagline: 高级全栈技术顾问 & 数据架构师
+    tagline: 高級全棧技術顧問 <br/> 數據架構師
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kein.chan85@gmail.com
-    phonecn: 853 6521 7615
-    phonejp: 080 9556 9252
+    phonecn: +853 6521 7615
+    phonejp: +81 80 9556 9252
     website: chankein.github.io/Kein-cv-zh/ #do not add http://
     weixin: KEINCHAN85
     line: chankein
@@ -76,24 +76,24 @@ brief:
 career-profile:
     title: 職業簡介(Career Profile)
     summary: |
-      **资深技术专家与项目负责人**，拥有10年以上全栈开发与大数据架构经验，擅长**复杂系统集成**和**数据驱动决策**。  
-      - **技术领导力**：在乐天Pay、LY集团等项目中，作为技术负责人领导5-10人跨职能团队，完成高并发支付系统优化、数据仓库迁移（200+TB）等大型项目，熟悉**敏捷开发**与**SDLC全流程**。  
-      - **数据解决方案**：为辣妈帮（340万日活用户）设计数据中台，通过用户画像与A/B测试提升留存率7.67%；为日本政府开发OCR系统，将人工处理时间从10年缩短至4小时。  
-      - **业务协同**：多次担任业务部门与技术团队的桥梁，优化需求文档流程（如丰田物流系统需求分析），降低跨部门沟通成本30%。  
+      **資深技術專家與項目負責人**:擁有超過10年的全棧開發與大數據架構經驗,具備軟件開發全週期的第一線開發經驗，擅長跨部門，跨公司及跨國企業的協作與團隊領導。
+      - **技術領導力**:曾在樂天Pay,Line Yahoo集團等日本頭部企業的項目中,擔任技術負責人,領導5-15人團隊,解決技術難題，進行技術分享和培訓，管理項目問題，主導需求細分與標準化開發流程。
+      - **數據解決方案**:為辣媽幫(340萬日活用戶)設計數據中台,通過用戶畫像與A/B測試,提升了用戶留存率7.67%,為日本政府開發OCR工具,將人工處理時間從10年縮短至4小時,為Line Yahoo和Softbank集團提供數據倉庫雲服務框架遷移服務,大幅降低數據倉庫的運維成本。
 
-      **核心优势**:
-      - 技术广度：全栈开发（Python/Java/SQL）、云架构（AWS）、数据可视化（Power BI）。  
-      - 多语言能力：日语（JLPT-N1）、英语、中文，适应国际化协作环境。  
+      **核心優勢**
+      - **技術廣度**:具備从项目需求分析,系统设计,技术选型,项目架构设计,测试,部署,持续整合/交付(CI/CD),运行维护全生命周期的第一线開發经验。項目經驗涵蓋服務端開發，數據倉庫設計和優化,本地服務器/雲架構,敏捷開發和瀑布式開發的項目管理方法均能夠適應。
+      - **業務協同**:多次擔任業務部門與技術團隊的橋樑，優化需求文檔流程(企業內部跨部門溝通經驗:辣媽幫商業智能組,豐田集團智能都市;集團內部跨公司溝通經驗:軟銀機器人對企業開發項目,樂天Pay-樂天銀行-樂天信用卡的協作,Line Yahoo集團的數據倉庫遷移;與外部供應商的溝通:日本戶籍系統電子化)
+
     changelanguage: To English
     changelanguageurl: https://chankein.github.io/Kein-cv/ 
 
 experiences:
-    - role: 全棧工程師/
+    - role: 高級全棧技術顧問 & 數據架構師
       time: 2022.10 - 至今
       company: Amigo獨立工作室, 東京 
       details: |
         - 樂天Pay(即時支付)項目:樂天Pay是日本第二大電子支付軟件。帶領後端團隊開發信用卡和電子支付/充值功能的後端部分的功能更新。
-        - Nanamusic項目:負責日本音樂創作App:Nanamusic的後端管理開發和系統維護,及時應對版本更新，惡意攻擊等造成的系統故障。
+        - Nanamusic項目:負責日本音樂創作App:Nanamusic的後端管理開發和系統維護,及時應對版本更新,惡意攻擊等造成的系統故障。
         - 日本人流統計系統:日本三大電信商之一softbank的內部項目。通過獲取信號基地站和GPS定位數據,持續管理移動電話的位置情報,形成占日本約三分一人口的數據倉庫。我主要負責底層框架的檢證調查,以及部分可視化任務。
         - LY集團數據倉庫遷移:作為技術組長兼項目經理,負責為日本Line Yahoo集團現有的本地數據中心Teradata向Redshift的遷移項目提供技術支持:包括Teradata至AWS Redshift的技术方案验证,所需资源评估,迁移进度管理,标准化流程开发,数据一致性保障。
         - Azas項目:Azas是一款面向建設現場的數字化安全管理平台,通過智能手機APP讓工人自主上報日常安全隱患並記錄安全行爲,結合即時表彰機制促進現場安全文化培育,最終實現施工環境的安全優化。负责核心模块实现与系统兼容性维护。
@@ -169,28 +169,29 @@ education:
 expertise:
     title: 專業技能(Areas of Expertise)
     intro: >
-      作為全棧工程師,我的核心技術棧為服務端開發和大數據應用,其次亦有獨立開發網站,智能手機程序和桌面程序的能力。
-      <br/>
-      語言方面,我掌握Python、Java、R、SwiftUI、C#等多種編程語言,能夠因應需求選用合適的語言更高效地進行項目開發。
-      <br/>
-      在服務端開發方面,我不僅熟練使用Django、Spring Boot、Flask等多種框架,還具備在AWS/Azure雲服務和本地服務器上使用Ansible進行服務器自動化管理的經驗。我能夠根據項目需求靈活選擇和運用AWS雲服務。
-      <br/>
-      此外,我也有在Windows和iOS平臺上獨立進行WPF和SwiftUI開發的能力。我曾為日本政府、豐田、軟銀機器人等知名客戶提供AI/自動化開發項目的設計、開發和測試服務，我的工作不僅提高了項目效率，還顯著優化了客戶體驗。
-      <br/>
-      作為一名大數據工程師,我熟悉MySQL、OracleDB等主流數據庫系統,以及Hadoop生態系統下的分布式數據倉庫設計,具備DataBricks的實際運用經驗。擅長進行埋點設計、管理和數據可視化。我曾作為數據團隊的一員開發OSS數據中臺系統,為各部門提供數據可視化報表頁面支持,並熟練使用Power BI等數據可視化工具。
-      <br/>
-      在數據應用方面,我有豐富的經驗,包括數據挖掘、用戶畫像建立、智能推薦系統開發等。我為公司運營的APP提供用戶分析、廣告投放、用戶留存策略等方面的數據支持,有效提升了用戶參與度和業務成果。
-      <br/>
+      了解更多技術細節,請前往我的技術博客:https://chankein.github.io/
     assignments:
-      - title: 數據倉庫設計及配置
+      - title: 編程語言與框架
         link: "#"
-        tagline: "豐富的資料庫知識,具備將業務數據抽象成數據結構,獨立配置數據倉庫的能力."
+        tagline: "熟練掌握多種編程語言和開發框架,如Python,Java,C#,SwiftUI等,能夠根據項目需求選擇高效的技術棧並進行高效開發。精通Django,Spring Boot, Flask等,擁有豐富的雲平台部署和管理經驗，能夠為大規模分佈式系統提供穩定的技術支持."
 
-      - title: 數據流即時處理
+      - title: 多平台軟件開發
         link: "#"
-        tagline: "通過SQL,Java,Scala,Python編寫ETL處理開發,實現高效的數據流處理運算支持."
+        tagline: "具備獨立設計UI,並運用SwiftUI進行iOS和C# WPF框架獨立開發App的能力."
 
-      - title: 數據可視化
+      - title: 雲平台與自動化管理
+        link: "#"
+        tagline: "熟練使用AWS等雲平台和Ansible等工具進行自動化運維,成功為多個項目顯著節省了運維成本."
+
+      - title: 軟件測試和CI/CD
+        link: "#"
+        tagline: "具備獨立設計測試項,執行軟件測試經驗,以為開發項目提供品質控制提供支持.通過使用TravisCI和Github Action實現持續化交付和集成."
+
+      - title: 數據處理與優化
+        link: "#"
+        tagline: "具備扎實的數據庫管理和大數據處理能力,熟悉主流數據庫如Mysql,OracleDB和Hadopp生態系統,能夠優化分佈式數據倉庫和ETL流程,提升數據處理效率."
+
+      - title: 數據分析與數據可視化
         link: "#"
         tagline: "除熟練掌握Power BI進行快速可視化頁面製作外,也具有運用開發框架進行定制化數據可視化頁面開發能力."
 
@@ -198,33 +199,18 @@ expertise:
         link: "#"
         tagline: "通過數據挖掘技術應用,為用戶分析,數據驅動開發和商業決策提供數據支持."
 
-      - title: iOS軟件開發
-        link: "#"
-        tagline: "具備獨立設計UI,並運用SwiftUI進行iOS App獨立開發的能力."
-
-      - title: Windows軟件開發
-        link: "#"
-        tagline: "以C#和WPF框架開發Windows小型程式的開發經驗."
-
-      - title: 軟件測試
-        link: "#"
-        tagline: "具備獨立設計測試項,執行軟件測試經驗,以為開發項目提供品質控制提供支持."
-
-      - title: 編程語言
-        link: "#"
-        tagline: "熟練掌握Python, Java,和C#編程語言."
-
       - title: 演算法知識
         link: "#"
         tagline: "不斷精進編程演算法技術,曾通過重構代碼將運算用時從700天加速到10分鐘以內."
+
+      - title: 問題定位和解決
+        link: "#"
+        tagline: "豐富的問題(bug)調查,管理跟進和系統資源優化經驗."
 
       - title: 自然語言
         link: "#"
         tagline: "除母語的普通話,粵語外,精通日英雙語,可滿足日常工作和技術調查需要."
 
-      - title: 問題定位和解決
-        link: "#"
-        tagline: "豐富的問題(bug)調查和系統資源優化經驗."
 
 projects:
     changelanguage: To English
@@ -237,6 +223,7 @@ projects:
       在不同項目中,分別以大數據工程師,服務端工程師,測試工程師的角色,參與了從架構設計,開發,測試到漏洞修補整個系統生命週期.
       <br/>
       當面對一個新項目,我具備多角度的視野,隨時準備好面對各種新的挑戰.
+      <br/>*點擊項目標題可打開項目相關的網頁.
    
     project:
       - title: 樂天Pay
@@ -258,7 +245,7 @@ projects:
                     1. CI/CD流程優化: 通過優化CI/CD工具處理流程,將3600多個服務端UI測試的執行時間從4小時縮短至1小時,顯著提升了開發效率。
                     1. 雲服務管理: 負責AWS等雲服務平臺的IaC(Infrastructure as Code)開發管理,減少了人工操作時的錯誤概率,提高了系統的可靠性。
                     1. 服務器監控與應急處理: 監控服務器資源,及時響應服務器故障,必要時進行版本回滾,對抗惡意攻擊,如封禁IP等。
-                    1. 運營管理平臺開發: 通過開發和改進運營管理平臺，提高了運營團隊對侵犯版權作品的處理效率，以及樂曲數據的及時更新。
+                    1. 運營管理平臺開發: 通過開發和改進運營管理平臺,提高了運營團隊對侵犯版權作品的處理效率,以及樂曲數據的及時更新。
 
       - title: 全国人流统计
         link: "https://www.softbank.jp/biz/services/analytics/ugoki/"
@@ -277,15 +264,15 @@ projects:
                     1. 资源评估:测算迁移所需的硬件、人力及时间成本,为资源调配提供依据。
                     1. 迁移管理:制定详细迁移计划,实时跟进并解决团队执行中的问题。
                     1. 标准化流程:通过试点迁移,建立标准化操作方案(SOP)。
-                    1. 数据一致性保障：定义数据校验标准,开发自动化校验框架及脚本,并持续优化。
+                    1. 数据一致性保障:定义数据校验标准,开发自动化校验框架及脚本,并持续优化。
 
       - title: Azas建築安全推進App項目
         link: "https://sales.azas-token.com/"
         role: "技術顧問兼項目經理"
         description: Azas是一款面向建設現場的數字化安全管理平台,通過智能手機APP讓工人自主上報日常安全隱患並記錄安全行爲,結合即時表彰機制促進現場安全文化培育,最終實現施工環境的安全優化。
         KeyAchievements: |
-                    1. 技术调研：主导新功能开发的技术可行性分析。
-                    1. 项目管理：定期跟进开发进度，协调解决突发问题。
+                    1. 技术调研:主导新功能开发的技术可行性分析。
+                    1. 项目管理:定期跟进开发进度,协调解决突发问题。
                     1. 跨平台适配:解决Android/iOS系统版本升级导致的React Native兼容性问题。
       
       - title: 日本旅遊行程自動生成APP
@@ -323,19 +310,19 @@ projects:
                     1. 設計和執行單元測試,結合測試和功能測試測試項目,保證項目質量.
                     1. 針對未開發完成的外部系統和內部實例,通過Python進行快速開發,以滿足開發期間的接口測試需求.
 
-      - title: 對企業開發項目 (軟銀機器人)
+      - title: 對企業開發項目 (軟銀機器人Softbank Robotics)
         link: "https://www.softbankrobotics.com/emea/en/pepper/"
         role: "測試工程師"
         description: 負責人形機器人Pepper的管理系統測試和對企業定制開發的功能程序測試.</br>
         KeyAchievements: |
                     1. 負責設計和執行對Pepper管理系統和Pepper App的各階段測試計劃.測試計劃分別包括單元測試,結合測試和功能測試.
                     1. 新版本App投放前,實施用戶驗收測試,確保機器人App的可靠性和功能性.
-                    1. 利用Selenium框架實現前端自動化測試.
+                    1. 利用Selenium框架實現前端自動化測試,將原本需要4人/日的人工測試縮減到0.5人/日.
                     1. 自動收集Pepper分析故障日誌,分析清理相關日誌到Pepper管理系統的AWS雲端服務器.
-                    1. 重現新報告的程序錯誤,收集相關日誌,生成錯誤報告並提交至漏洞補丁相關小組.
+                    1. 重現新報告的程序錯誤,收集相關日誌,生成錯誤報告並提交至漏洞補丁相關小組(法國 Aldebaran Robotics)
                     1. 通過Redmine平台,跟進和管理bug的解決進展.
                     
-      - title: 辣媽幫科技有限公司-數據組
+      - title: 辣媽幫科技有限公司-商業智能組
         link: "http://www.lamabang.com/article/detail/m-about.html/"
         role: "大數據工程師"
         description: 辣媽幫app是中國最大的母嬰社交媒體之一.除辣媽幫app外,公司還運營孕期伴侶,辣媽幫商城,辣妈帮U选3款app.
@@ -345,7 +332,7 @@ projects:
                       數據組導入了新的數據倉庫以應對數據增長,開發了數據平台為公司各部門提供數據展示.
                       
         KeyAchievements: |
-                    1. 設計,定義,測試和管理超過3400個埋點,實現對用戶操作行為的追蹤和統計.
+                    1. 設計,定義,測試和管理超過3400個數據埋點,實現對用戶操作行為的追蹤和統計.
                     1. 通過編寫SQL,shell腳本,Python腳本和Scala腳本,實現數據的ETL處理.
                     1. 設計和設置數據倉儲架構,為後續數據運用提供底層支持.
                     1. 開發及維護數據展示平台,為運營部門和管理提供數據可視化支持.
@@ -379,7 +366,7 @@ skills-details:
           - name: Mysql
             level: 90%
 
-          - name: PostgreSQL/Redshift
+          - name: PostgreSQL
             level: 90%
 
           - name: OracleDB
@@ -479,7 +466,7 @@ skills-details:
 skills:
     title: 技術棧(Technical Skills)
     programming:
-          - name: Python,Java,Scala,Swift,C#
+          - name: Python,Java,Scala,Swift,C#,R
 
     database:
           - name: Mysql,PostgreSQL,OracleDB,Redshift,Teradata
